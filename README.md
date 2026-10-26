@@ -26,14 +26,11 @@ Bu komut `dist/cicek-buketleri/`, `dist/celenkler/`, `dist/saksi-cicekleri/` ve 
 
 Katalogdaki her ürünün `image` alanı galeride kullanılan en fazla 900 piksel genişliğindeki `.thumb.webp` dosyasına, `fullImage` alanı fotoğraf büyütülünce açılan `.webp` dosyasına işaret eder. Orijinal JPG/PNG kaynakları depoda korunur. Yeni ürün eklerken iki WebP sürümünü üretip `node scripts/build-seo-pages.cjs` ve `node --test tests/*.test.cjs` komutlarını çalıştırın.
 
-## Yayın dosyası izinleri
+## Otomatik yayın
 
-`rsync -a` yerel dosya izinlerini de sunucuya taşır. Nginx'in ürün fotoğraflarını okuyabilmesi için yeni sürümü etkinleştirmeden önce statik dosyalara `644`, dizinlere `755` izni verin ve bir ürün görselinin HTTP 200 döndüğünü doğrulayın:
+`main` dalına gönderilen her commit, [GitHub Actions](.github/workflows/publish.yml) ile SEO sayfalarını yeniden üretir, testleri çalıştırır ve `dist/` içeriğini GitHub Pages'e yayımlar. Canlı adres `https://yadecicekcilik.com/`; `www` adresi ana adrese yönlenir. Sunucu SSH erişimi veya sunucu parolası gerekmez.
 
-```bash
-find /srv/yade-cicekcilik/releases/YENI_SURUM -type d -exec chmod 755 {} +
-find /srv/yade-cicekcilik/releases/YENI_SURUM -type f -exec chmod 644 {} +
-```
+İçerik güncelleme akışı: ilgili `dist/` dosyalarını düzenleyin, yerelde `node scripts/build-seo-pages.cjs` ve `node --test tests/*.test.cjs` çalıştırın, ardından değişiklikleri `main` dalına gönderin. Yayın durumunu deponun **Actions** sekmesinden izleyin. Alan adı Cloudflare DNS üzerinden GitHub Pages'e yönlenir.
 
 ## Sipariş akışı
 
