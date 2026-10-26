@@ -16,6 +16,14 @@ Ardından `http://127.0.0.1:4175` adresini açın. Yayında `dist/` klasörü do
 node --test tests/*.test.cjs
 ```
 
+Ürün bilgileri `dist/content.js` içinde değiştirildiğinde, yayına hazırlamadan önce SEO koleksiyon sayfalarını ve ana sayfanın JavaScript olmadan görünen ürün kartlarını yeniden üretin:
+
+```bash
+node scripts/build-seo-pages.cjs
+```
+
+Bu komut `dist/cicek-buketleri/`, `dist/celenkler/`, `dist/saksi-cicekleri/` ve `dist/sitemap.xml` dosyalarını günceller. Yayına yalnızca `dist/` içeriği kopyalanır.
+
 ## Sipariş akışı
 
 Site özet ve PDF hazırlar, WhatsApp sohbetini açar. Mesajın gönderilmesi ve fiyat, stok, hazırlama zamanı teyidi işletme ile müşteriye aittir. Ödeme veya otomatik sipariş alma altyapısı yoktur.
