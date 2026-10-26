@@ -251,3 +251,15 @@
 @media(max-width:700px){.world-picker{margin:18px 16px 27px;padding:21px 12px 28px;gap:26px;grid-template-columns:1fr}.world-picker-story{padding-left:43px}.world-picker .choice-flower{font-size:44px;left:-5px;top:27px}.world-picker .eyebrow{font-size:9px;margin-bottom:12px;letter-spacing:1.7px}.world-picker p{font-size:39px}.world-picker-controls{margin:0 8px;padding:25px 20px 20px;transform:rotate(-1deg)}.world-picker:before{width:95%;height:53%;top:auto;bottom:12px}.choice-card-note{font-size:21px}.world-picker-controls label{font-size:10px}}
 .bill-total{align-items:center;gap:15px}.bill-total #bouquet-total{font-size:20px;line-height:1.25;max-width:220px;text-align:right}.pdf-ready-intro{font-size:15px;line-height:1.65;color:#65735c;max-width:520px}#pdf-code{display:inline-block;font-size:12px;letter-spacing:1px;padding:9px 13px;background:#e7ecdd;border:1px solid #cdd6bf;border-radius:3px}#pdf-summary{border-top:1px solid #d1d9c5;margin:15px 0;padding-top:12px}#pdf-summary>div{padding:9px 0;border-bottom:1px solid #e0e4d8;font-size:15px}.pdf-price-total{display:block;margin-top:19px;color:#a13f68;font-size:21px}.pdf-price-notice{line-height:1.6;font-size:14px;max-width:520px}#notes-price{font-size:14px;line-height:1.6;color:#7c5465}
 .pdf-next-steps{display:grid;grid-template-columns:repeat(3,1fr);list-style:none;padding:15px 0;margin:17px 0;border-top:1px solid #d6dccb;border-bottom:1px solid #d6dccb;gap:12px}.pdf-next-steps li{display:flex;flex-direction:column;gap:7px;font-size:11px;color:#617155}.pdf-next-steps b{font-family:Georgia,serif;font-size:23px;color:#a13f68;font-weight:400}.pdf-next-steps span{line-height:1.4}
+
+/* Local shop details remain readable without JavaScript. */
+.local-shop-guide{max-width:1180px;margin:48px auto 64px;padding:42px 46px;background:#fffaf1;border:1px solid #ded8c9;box-shadow:7px 7px 0 #e7ecdd;color:#344c3b}
+.local-shop-guide .eyebrow{display:block;margin-bottom:14px;color:#8d4865;font-size:11px;letter-spacing:2px}
+.local-shop-guide h2{max-width:740px;margin:0 0 16px;font-family:Georgia,serif;font-size:clamp(32px,4vw,52px);font-weight:400;line-height:1.1}
+.local-shop-guide>p{max-width:850px;margin:0 0 25px;font-size:16px;line-height:1.7}
+.local-shop-guide .local-shop-questions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+.local-shop-guide .local-shop-questions article{border-top:1px solid #c7d0b9;padding-top:17px}
+.local-shop-guide h3{font-family:Georgia,serif;font-size:23px;font-weight:400;line-height:1.25;margin:0 0 10px}
+.local-shop-guide .local-shop-questions p{font-size:14px;line-height:1.65;margin:0}
+.local-shop-guide a{color:#8c315d;text-underline-offset:3px}
+@media(max-width:700px){.local-shop-guide{margin:36px 16px 46px;padding:28px 24px;box-shadow:4px 4px 0 #e7ecdd}.local-shop-guide .local-shop-questions{grid-template-columns:1fr;gap:20px}}
