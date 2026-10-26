@@ -1,7 +1,7 @@
 window.FLOWER_CONTENT={
  name:'Yade Flowers',
  // Dükkân fotoğrafı hazır olduğunda örn. assets/yade-dukkan.jpg yazılır.
- shopImage:'assets/yade-dukkan-temiz.png',
+ shopImage:'assets/yade-dukkan-temiz.webp',
  // Kullanıcının paylaştığı Yade Flowers kartındaki iletişim bilgileri.
  whatsapp:'905522048615',
  phone:'0256 213 35 05',

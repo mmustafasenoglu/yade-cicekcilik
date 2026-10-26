@@ -1,4 +1,19 @@
+let pdfLibraryPromise;
+function loadPdfLibrary(){
+ if(window.PDFLib)return Promise.resolve();
+ if(!pdfLibraryPromise){
+  pdfLibraryPromise=new Promise((resolve,reject)=>{
+   const script=document.createElement('script');
+   script.src='assets/pdf-lib.min.js';
+   script.onload=()=>window.PDFLib?resolve():reject(new Error('PDF library unavailable'));
+   script.onerror=()=>reject(new Error('PDF library failed to load'));
+   document.head.append(script);
+  }).catch(error=>{pdfLibraryPromise=null;throw error});
+ }
+ return pdfLibraryPromise;
+}
 window.createBouquetPDF=async function({snapshot,preview,summary,wrap,quote,notes,code,date}){
+ await loadPdfLibrary();
  await document.fonts.ready;
  const logo=new Image();logo.src='assets/yade-logo-clean.svg';await logo.decode();
  const pdf=await PDFLib.PDFDocument.create();pdf.setTitle('Yade Flowers | Buket talebi | '+code);pdf.setAuthor('Yade Flowers');pdf.setSubject('Kişisel buket tasarımı, seçim listesi ve hazırlık talebi');
