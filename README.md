@@ -24,6 +24,8 @@ node scripts/build-seo-pages.cjs
 
 Bu komut `dist/cicek-buketleri/`, `dist/celenkler/`, `dist/saksi-cicekleri/` ve `dist/sitemap.xml` dosyalarını günceller. Yayına yalnızca `dist/` içeriği kopyalanır.
 
+Katalogdaki her ürünün `image` alanı galeride kullanılan en fazla 900 piksel genişliğindeki `.thumb.webp` dosyasına, `fullImage` alanı fotoğraf büyütülünce açılan `.webp` dosyasına işaret eder. Orijinal JPG/PNG kaynakları depoda korunur. Yeni ürün eklerken iki WebP sürümünü üretip `node scripts/build-seo-pages.cjs` ve `node --test tests/*.test.cjs` komutlarını çalıştırın.
+
 ## Yayın dosyası izinleri
 
 `rsync -a` yerel dosya izinlerini de sunucuya taşır. Nginx'in ürün fotoğraflarını okuyabilmesi için yeni sürümü etkinleştirmeden önce statik dosyalara `644`, dizinlere `755` izni verin ve bir ürün görselinin HTTP 200 döndüğünü doğrulayın:

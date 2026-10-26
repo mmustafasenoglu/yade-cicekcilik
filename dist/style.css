@@ -264,3 +264,5 @@
 @media(max-width:700px){.local-shop-guide{margin:36px 16px 46px;padding:28px 24px;box-shadow:4px 4px 0 #e7ecdd}.local-shop-guide .local-shop-questions{grid-template-columns:1fr;gap:20px}}
 
 .local-category-links{display:flex;flex-wrap:wrap;gap:10px;margin:24px 0 30px}.local-category-links a{display:inline-flex;align-items:center;justify-content:space-between;gap:24px;padding:13px 16px;border:1px solid #a9b2a0;color:#334036;background:#f8f6ef;text-decoration:none;font-size:12px;font-weight:700}.local-category-links a:hover{background:#e6eadf}.footer-category-nav{display:flex;flex-wrap:wrap;justify-content:center;gap:12px 28px;padding:22px 24px;border-top:1px solid #ffffff26}.footer-category-nav a{color:#dce6d3;text-decoration:none;font-size:11px}.footer-category-nav a:hover{text-decoration:underline}
+
+.ready-photo img{transition:transform .35s,opacity .18s ease}.ready-photo.is-loading img{opacity:0}@media(prefers-reduced-motion:reduce){.ready-photo img{transition:none}}
