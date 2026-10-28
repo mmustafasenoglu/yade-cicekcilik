@@ -13,8 +13,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-01",
     "name": "Pembe Ayıcık Buketi",
-    "image": "assets/bouquets/yade-01.thumb.webp",
-    "fullImage": "assets/bouquets/yade-01.webp",
+    "image": "assets/bouquets/yade-01.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-01.studio.webp",
     "alt": "Pembe Ayıcık Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "toys",
     "price": null
@@ -22,8 +22,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-02",
     "name": "Lila Ayıcık Buketi",
-    "image": "assets/bouquets/yade-02.thumb.webp",
-    "fullImage": "assets/bouquets/yade-02.webp",
+    "image": "assets/bouquets/yade-02.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-02.studio.webp",
     "alt": "Lila Ayıcık Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "toys",
     "price": null
@@ -31,8 +31,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-03",
     "name": "Mavi Ayıcık Buketi",
-    "image": "assets/bouquets/yade-03.thumb.webp",
-    "fullImage": "assets/bouquets/yade-03.webp",
+    "image": "assets/bouquets/yade-03.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-03.studio.webp",
     "alt": "Mavi Ayıcık Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "toys",
     "price": null
@@ -40,8 +40,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-04",
     "name": "Sarı Lilyum ve Gerberalar",
-    "image": "assets/bouquets/yade-04.thumb.webp",
-    "fullImage": "assets/bouquets/yade-04.webp",
+    "image": "assets/bouquets/yade-04.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-04.studio.webp",
     "alt": "Sarı Lilyum ve Gerberalar — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -49,8 +49,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-05",
     "name": "Mor Ambalajlı Renkli Buket",
-    "image": "assets/bouquets/yade-05.thumb.webp",
-    "fullImage": "assets/bouquets/yade-05.webp",
+    "image": "assets/bouquets/yade-05.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-05.studio.webp",
     "alt": "Mor Ambalajlı Renkli Buket — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -58,8 +58,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-06",
     "name": "Kırmızı Gül ve Beyaz Çiçekler",
-    "image": "assets/bouquets/yade-06.thumb.webp",
-    "fullImage": "assets/bouquets/yade-06.webp",
+    "image": "assets/bouquets/yade-06.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-06.studio.webp",
     "alt": "Kırmızı Gül ve Beyaz Çiçekler — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -67,8 +67,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-07",
     "name": "Beyaz Gül Buketi",
-    "image": "assets/bouquets/yade-07.thumb.webp",
-    "fullImage": "assets/bouquets/yade-07.webp",
+    "image": "assets/bouquets/yade-07.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-07.studio.webp",
     "alt": "Beyaz Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -76,8 +76,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-08",
     "name": "Renkli Gerbera Buketi",
-    "image": "assets/bouquets/yade-08.thumb.webp",
-    "fullImage": "assets/bouquets/yade-08.webp",
+    "image": "assets/bouquets/yade-08.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-08.studio.webp",
     "alt": "Renkli Gerbera Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -85,20 +85,20 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-09",
     "name": "Hasır Ambalajlı Lilyum Buketi",
-    "image": "assets/bouquets/yade-09.thumb.webp",
-    "fullImage": "assets/bouquets/yade-09.webp",
+    "image": "assets/bouquets/yade-09.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-09.studio.webp",
     "alt": "Hasır Ambalajlı Lilyum Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
     "images": [
-      "assets/bouquets/yade-19.webp"
+      "assets/bouquets/yade-19.studio.webp"
     ]
   },
   {
     "id": "YD-10",
     "name": "Turuncu Ayıcık Buketi",
-    "image": "assets/bouquets/yade-10.thumb.webp",
-    "fullImage": "assets/bouquets/yade-10.webp",
+    "image": "assets/bouquets/yade-10.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-10.studio.webp",
     "alt": "Turuncu Ayıcık Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "toys",
     "price": null
@@ -106,8 +106,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-11",
     "name": "Gerbera Renkleri",
-    "image": "assets/bouquets/yade-11.thumb.webp",
-    "fullImage": "assets/bouquets/yade-11.webp",
+    "image": "assets/bouquets/yade-11.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-11.studio.webp",
     "alt": "Gerbera Renkleri — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -115,8 +115,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-12",
     "name": "Kırmızı Gül ve Beyaz Kasımpatı",
-    "image": "assets/bouquets/yade-12.thumb.webp",
-    "fullImage": "assets/bouquets/yade-12.webp",
+    "image": "assets/bouquets/yade-12.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-12.studio.webp",
     "alt": "Kırmızı Gül ve Beyaz Kasımpatı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -124,8 +124,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-13",
     "name": "Mor ve Pembe Çiçekler",
-    "image": "assets/bouquets/yade-13.thumb.webp",
-    "fullImage": "assets/bouquets/yade-13.webp",
+    "image": "assets/bouquets/yade-13.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-13.studio.webp",
     "alt": "Mor ve Pembe Çiçekler — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -133,8 +133,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-14",
     "name": "Bordo Ayıcık Buketi",
-    "image": "assets/bouquets/yade-14.thumb.webp",
-    "fullImage": "assets/bouquets/yade-14.webp",
+    "image": "assets/bouquets/yade-14.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-14.studio.webp",
     "alt": "Bordo Ayıcık Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "toys",
     "price": null
@@ -142,8 +142,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-15",
     "name": "Kraft Ambalajlı Karışık Buket",
-    "image": "assets/bouquets/yade-15.thumb.webp",
-    "fullImage": "assets/bouquets/yade-15.webp",
+    "image": "assets/bouquets/yade-15.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-15.studio.webp",
     "alt": "Kraft Ambalajlı Karışık Buket — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -151,8 +151,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-16",
     "name": "Pembe Ambalajlı Gül Buketi",
-    "image": "assets/bouquets/yade-16.thumb.webp",
-    "fullImage": "assets/bouquets/yade-16.webp",
+    "image": "assets/bouquets/yade-16.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-16.studio.webp",
     "alt": "Pembe Ambalajlı Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -160,8 +160,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-17",
     "name": "Sarı Orkide",
-    "image": "assets/bouquets/yade-17.thumb.webp",
-    "fullImage": "assets/bouquets/yade-17.webp",
+    "image": "assets/bouquets/yade-17.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-17.studio.webp",
     "alt": "Sarı Orkide — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null
@@ -169,8 +169,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-18",
     "name": "Orkideli Mor Beyaz Aranjman",
-    "image": "assets/bouquets/yade-18.thumb.webp",
-    "fullImage": "assets/bouquets/yade-18.webp",
+    "image": "assets/bouquets/yade-18.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-18.studio.webp",
     "alt": "Orkideli Mor Beyaz Aranjman — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null
@@ -178,8 +178,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-20",
     "name": "Pudra ve Gri Ayıcık Buketi",
-    "image": "assets/bouquets/yade-20.thumb.webp",
-    "fullImage": "assets/bouquets/yade-20.webp",
+    "image": "assets/bouquets/yade-20.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-20.studio.webp",
     "alt": "Pudra ve Gri Ayıcık Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "toys",
     "price": null
@@ -187,8 +187,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-21",
     "name": "Kırmızı Beyaz Yeşil Buket",
-    "image": "assets/bouquets/yade-21.thumb.webp",
-    "fullImage": "assets/bouquets/yade-21.webp",
+    "image": "assets/bouquets/yade-21.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-21.studio.webp",
     "alt": "Kırmızı Beyaz Yeşil Buket — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -196,8 +196,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-22",
     "name": "Kırmızı Çiçekli Yazılı Çelenk",
-    "image": "assets/bouquets/yade-22.thumb.webp",
-    "fullImage": "assets/bouquets/yade-22.webp",
+    "image": "assets/bouquets/yade-22.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-22.studio.webp",
     "alt": "Yeşil yaprak çerçeveli, beyaz harflerle yazılı kırmızı dikdörtgen çelenk",
     "category": "wreath",
     "price": null
@@ -205,20 +205,20 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-23",
     "name": "Sarı Detaylı Beyaz Gül Buketi",
-    "image": "assets/bouquets/yade-23.thumb.webp",
-    "fullImage": "assets/bouquets/yade-23.webp",
+    "image": "assets/bouquets/yade-23.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-23.studio.webp",
     "alt": "Beyaz sarı ambalajlı beyaz güller ve aşağı sarkan yeşil yapraklarla büyük buket",
     "category": "flowers",
     "price": null,
     "images": [
-      "assets/bouquets/yade-26.webp"
+      "assets/bouquets/yade-26.studio.webp"
     ]
   },
   {
     "id": "YD-24",
     "name": "Şapkalı Ayıcık ve Çiçek Aranjmanı",
-    "image": "assets/bouquets/yade-24.thumb.webp",
-    "fullImage": "assets/bouquets/yade-24.webp",
+    "image": "assets/bouquets/yade-24.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-24.studio.webp",
     "alt": "Kırmızı puantiyeli şapkalı büyük beyaz ayıcık ve karışık çiçek aranjmanı",
     "category": "arrangement",
     "price": null
@@ -226,8 +226,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-25",
     "name": "Güllü Çikolatalı Hediye Kutusu",
-    "image": "assets/bouquets/yade-25.thumb.webp",
-    "fullImage": "assets/bouquets/yade-25.webp",
+    "image": "assets/bouquets/yade-25.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-25.studio.webp",
     "alt": "Beyaz çekmeceli kutuda kırmızı güller, beyaz çiçekler ve paketli çikolatalar",
     "category": "arrangement",
     "price": null
@@ -235,8 +235,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-27",
     "name": "Pembe Ambalajlı Turuncu Gül Buketi",
-    "image": "assets/bouquets/yade-27.thumb.webp",
-    "fullImage": "assets/bouquets/yade-27.webp",
+    "image": "assets/bouquets/yade-27.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-27.studio.webp",
     "alt": "Pembe Ambalajlı Turuncu Gül Buketi — gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -244,8 +244,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-28",
     "name": "Kraft Ambalajlı Kırmızı Beyaz Güller",
-    "image": "assets/bouquets/yade-28.thumb.webp",
-    "fullImage": "assets/bouquets/yade-28.webp",
+    "image": "assets/bouquets/yade-28.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-28.studio.webp",
     "alt": "Kraft Ambalajlı Kırmızı Beyaz Güller — gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -253,8 +253,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-29",
     "name": "Pembe Beyaz Ortanca Aranjmanı",
-    "image": "assets/bouquets/yade-29.thumb.webp",
-    "fullImage": "assets/bouquets/yade-29.webp",
+    "image": "assets/bouquets/yade-29.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-29.studio.webp",
     "alt": "Pembe Beyaz Ortanca Aranjmanı — gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null
@@ -262,8 +262,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-30",
     "name": "Kırmızı Beyaz Çift Katlı Çelenk",
-    "image": "assets/bouquets/yade-30.thumb.webp",
-    "fullImage": "assets/bouquets/yade-30.webp",
+    "image": "assets/bouquets/yade-30.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-30.studio.webp",
     "alt": "Kırmızı Beyaz Çift Katlı Çelenk — gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null
@@ -271,8 +271,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-31",
     "name": "Mor Ortanca Buketi",
-    "image": "assets/bouquets/yade-31.thumb.webp",
-    "fullImage": "assets/bouquets/yade-31.webp",
+    "image": "assets/bouquets/yade-31.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-31.studio.webp",
     "alt": "Mor Ortanca Buketi — gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -280,8 +280,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-32",
     "name": "Bordo Ambalajlı Gül ve Beyaz Çiçekler",
-    "image": "assets/bouquets/yade-32.thumb.webp",
-    "fullImage": "assets/bouquets/yade-32.webp",
+    "image": "assets/bouquets/yade-32.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-32.studio.webp",
     "alt": "Bordo Ambalajlı Gül ve Beyaz Çiçekler — gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -289,8 +289,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-33",
     "name": "Altın Ambalajlı Kırmızı Gül Buketi",
-    "image": "assets/bouquets/yade-33.thumb.webp",
-    "fullImage": "assets/bouquets/yade-33.webp",
+    "image": "assets/bouquets/yade-33.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-33.studio.webp",
     "alt": "Altın Ambalajlı Kırmızı Gül Buketi — gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -298,8 +298,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-34",
     "name": "Hasır Ambalajlı Renkli Buket",
-    "image": "assets/bouquets/yade-34.thumb.webp",
-    "fullImage": "assets/bouquets/yade-34.webp",
+    "image": "assets/bouquets/yade-34.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-34.studio.webp",
     "alt": "Hasır Ambalajlı Renkli Buket — gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -307,8 +307,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-35",
     "name": "Çiçekli Atıştırmalık Hediye Kutusu",
-    "image": "assets/bouquets/yade-35.thumb.webp",
-    "fullImage": "assets/bouquets/yade-35.webp",
+    "image": "assets/bouquets/yade-35.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-35.studio.webp",
     "alt": "Çiçekli Atıştırmalık Hediye Kutusu — gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null
@@ -316,8 +316,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-37",
     "name": "Pembe Beyaz Gül ve Okaliptüs Buketi",
-    "image": "assets/bouquets/yade-37.thumb.webp",
-    "fullImage": "assets/bouquets/yade-37.webp",
+    "image": "assets/bouquets/yade-37.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-37.studio.webp",
     "alt": "Pembe Beyaz Gül ve Okaliptüs Buketi — gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -325,8 +325,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-38",
     "name": "Beyaz Lilyum ve Kırmızı Gül Buketi",
-    "image": "assets/bouquets/yade-38.thumb.webp",
-    "fullImage": "assets/bouquets/yade-38.webp",
+    "image": "assets/bouquets/yade-38.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-38.studio.webp",
     "alt": "Beyaz Lilyum ve Kırmızı Gül Buketi — gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -334,8 +334,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-39",
     "name": "Pembe Beyaz Lisyantus Buketi",
-    "image": "assets/bouquets/yade-39.thumb.webp",
-    "fullImage": "assets/bouquets/yade-39.webp",
+    "image": "assets/bouquets/yade-39.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-39.studio.webp",
     "alt": "Pembe Beyaz Lisyantus Buketi — gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -343,8 +343,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-40",
     "name": "Lila Ambalajlı Renkli Çiçekler",
-    "image": "assets/bouquets/yade-40.thumb.webp",
-    "fullImage": "assets/bouquets/yade-40.webp",
+    "image": "assets/bouquets/yade-40.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-40.studio.webp",
     "alt": "Lila Ambalajlı Renkli Çiçekler — gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -352,8 +352,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-41",
     "name": "Mavi Ambalajlı Gerbera Buketi",
-    "image": "assets/bouquets/yade-41.thumb.webp",
-    "fullImage": "assets/bouquets/yade-41.webp",
+    "image": "assets/bouquets/yade-41.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-41.studio.webp",
     "alt": "Mavi Ambalajlı Gerbera Buketi — gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -361,8 +361,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-42",
     "name": "Sarı Lilyumlu Karışık Buket",
-    "image": "assets/bouquets/yade-42.thumb.webp",
-    "fullImage": "assets/bouquets/yade-42.webp",
+    "image": "assets/bouquets/yade-42.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-42.studio.webp",
     "alt": "Sarı Lilyumlu Karışık Buket — gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -370,8 +370,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-43",
     "name": "Pembe Sarı Gerbera Buketi",
-    "image": "assets/bouquets/yade-43.thumb.webp",
-    "fullImage": "assets/bouquets/yade-43.webp",
+    "image": "assets/bouquets/yade-43.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-43.studio.webp",
     "alt": "Pembe Sarı Gerbera Buketi — gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null
@@ -379,8 +379,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-44",
     "name": "Pembe Güllü Mor Beyaz Karışık Buket",
-    "image": "assets/bouquets/yade-44.thumb.webp",
-    "fullImage": "assets/bouquets/yade-44.webp",
+    "image": "assets/bouquets/yade-44.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-44.studio.webp",
     "alt": "Pembe Güllü Mor Beyaz Karışık Buket — işletmenin Google fotoğraflarından kullanıcı tarafından paylaşıldı",
     "category": "flowers",
     "price": null
@@ -388,8 +388,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-45",
     "name": "Vazoda Turuncu Gül ve Beyaz Çiçekler",
-    "image": "assets/bouquets/yade-45.thumb.webp",
-    "fullImage": "assets/bouquets/yade-45.webp",
+    "image": "assets/bouquets/yade-45.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-45.studio.webp",
     "alt": "Vazoda Turuncu Gül ve Beyaz Çiçekler — işletmenin Google fotoğraflarından kullanıcı tarafından paylaşıldı",
     "category": "arrangement",
     "price": null
@@ -397,8 +397,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-46",
     "name": "Turuncu Üç Katlı Çelenk",
-    "image": "assets/bouquets/yade-46.thumb.webp",
-    "fullImage": "assets/bouquets/yade-46.webp",
+    "image": "assets/bouquets/yade-46.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-46.studio.webp",
     "alt": "Turuncu Üç Katlı Çelenk — Yade Google fotoğraf galerisinden",
     "category": "wreath",
     "price": null,
@@ -407,8 +407,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-47",
     "name": "Turuncu Sarı Çift Katlı Çelenk",
-    "image": "assets/bouquets/yade-47.thumb.webp",
-    "fullImage": "assets/bouquets/yade-47.webp",
+    "image": "assets/bouquets/yade-47.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-47.studio.webp",
     "alt": "Turuncu Sarı Çift Katlı Çelenk — Yade Google fotoğraf galerisinden",
     "category": "wreath",
     "price": null,
@@ -417,8 +417,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-48",
     "name": "Hasır Detaylı Kırmızı Gül Buketi",
-    "image": "assets/bouquets/yade-48.thumb.webp",
-    "fullImage": "assets/bouquets/yade-48.webp",
+    "image": "assets/bouquets/yade-48.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-48.studio.webp",
     "alt": "Hasır Detaylı Kırmızı Gül Buketi — Yade Google fotoğraf galerisinden",
     "category": "flowers",
     "price": null,
@@ -427,8 +427,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-49",
     "name": "Pastel Gül ve Lisyantus Buketi",
-    "image": "assets/bouquets/yade-49.thumb.webp",
-    "fullImage": "assets/bouquets/yade-49.webp",
+    "image": "assets/bouquets/yade-49.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-49.studio.webp",
     "alt": "Pastel Gül ve Lisyantus Buketi — Yade Google fotoğraf galerisinden",
     "category": "flowers",
     "price": null,
@@ -437,8 +437,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-50",
     "name": "Lila Ambalajlı Beyaz Orkide",
-    "image": "assets/bouquets/yade-50.thumb.webp",
-    "fullImage": "assets/bouquets/yade-50.webp",
+    "image": "assets/bouquets/yade-50.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-50.studio.webp",
     "alt": "Lila Ambalajlı Beyaz Orkide — Yade Google fotoğraf galerisinden",
     "category": "potted",
     "price": null,
@@ -447,8 +447,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-51",
     "name": "Mor Beyaz Mevsim Buketi",
-    "image": "assets/bouquets/yade-safari-011.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-011.webp",
+    "image": "assets/bouquets/yade-safari-011.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-011.studio.webp",
     "alt": "Mor Beyaz Mevsim Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -457,8 +457,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-52",
     "name": "Kırmızı Beyaz Ayaklı Çelenk",
-    "image": "assets/bouquets/yade-safari-012.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-012.webp",
+    "image": "assets/bouquets/yade-safari-012.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-012.studio.webp",
     "alt": "Kırmızı Beyaz Ayaklı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -467,8 +467,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-53",
     "name": "Beyaz Lilyum Gelin Buketi",
-    "image": "assets/bouquets/yade-safari-014.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-014.webp",
+    "image": "assets/bouquets/yade-safari-014.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-014.studio.webp",
     "alt": "Beyaz Lilyum Gelin Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -477,8 +477,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-54",
     "name": "Vazoda Kırmızı Güller",
-    "image": "assets/bouquets/yade-safari-016.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-016.webp",
+    "image": "assets/bouquets/yade-safari-016.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-016.studio.webp",
     "alt": "Vazoda Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -487,8 +487,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-55",
     "name": "Saksıda Renkli Çiçekler",
-    "image": "assets/bouquets/yade-safari-017.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-017.webp",
+    "image": "assets/bouquets/yade-safari-017.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-017.studio.webp",
     "alt": "Saksıda Renkli Çiçekler — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -497,8 +497,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-56",
     "name": "Siyah Ambalajlı Büyük Gül Buketi",
-    "image": "assets/bouquets/yade-safari-018.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-018.webp",
+    "image": "assets/bouquets/yade-safari-018.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-018.studio.webp",
     "alt": "Siyah Ambalajlı Büyük Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -507,8 +507,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-57",
     "name": "Pembe Lilyum ve Gerbera Buketi",
-    "image": "assets/bouquets/yade-safari-022.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-022.webp",
+    "image": "assets/bouquets/yade-safari-022.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-022.studio.webp",
     "alt": "Pembe Lilyum ve Gerbera Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -517,8 +517,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-58",
     "name": "Sarı Kırmızı Açılış Çelengi",
-    "image": "assets/bouquets/yade-safari-023.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-023.webp",
+    "image": "assets/bouquets/yade-safari-023.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-023.studio.webp",
     "alt": "Sarı Kırmızı Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -527,8 +527,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-59",
     "name": "Fuşya Ambalajlı Kırmızı Güller",
-    "image": "assets/bouquets/yade-safari-024.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-024.webp",
+    "image": "assets/bouquets/yade-safari-024.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-024.studio.webp",
     "alt": "Fuşya Ambalajlı Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -537,8 +537,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-60",
     "name": "Mor Orkide ve Lilyum Aranjmanı",
-    "image": "assets/bouquets/yade-safari-027.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-027.webp",
+    "image": "assets/bouquets/yade-safari-027.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-027.studio.webp",
     "alt": "Mor Orkide ve Lilyum Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -547,8 +547,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-61",
     "name": "Beyaz Gerbera ve Mor Çiçekler",
-    "image": "assets/bouquets/yade-safari-028.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-028.webp",
+    "image": "assets/bouquets/yade-safari-028.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-028.studio.webp",
     "alt": "Beyaz Gerbera ve Mor Çiçekler — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -557,8 +557,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-62",
     "name": "Üç Katlı Kırmızı Beyaz Çelenk",
-    "image": "assets/bouquets/yade-safari-029.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-029.webp",
+    "image": "assets/bouquets/yade-safari-029.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-029.studio.webp",
     "alt": "Üç Katlı Kırmızı Beyaz Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -567,8 +567,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-63",
     "name": "Hasırda Pastel Renkler",
-    "image": "assets/bouquets/yade-safari-031.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-031.webp",
+    "image": "assets/bouquets/yade-safari-031.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-031.studio.webp",
     "alt": "Hasırda Pastel Renkler — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -577,8 +577,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-64",
     "name": "Kırmızı Ambalajlı Büyük Gül Buketi",
-    "image": "assets/bouquets/yade-safari-032.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-032.webp",
+    "image": "assets/bouquets/yade-safari-032.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-032.studio.webp",
     "alt": "Kırmızı Ambalajlı Büyük Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -587,8 +587,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-65",
     "name": "Kutuda Beyaz Güller",
-    "image": "assets/bouquets/yade-safari-033.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-033.webp",
+    "image": "assets/bouquets/yade-safari-033.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-033.studio.webp",
     "alt": "Kutuda Beyaz Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -597,8 +597,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-66",
     "name": "İki Katlı Kırmızı Beyaz Çelenk",
-    "image": "assets/bouquets/yade-safari-034.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-034.webp",
+    "image": "assets/bouquets/yade-safari-034.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-034.studio.webp",
     "alt": "İki Katlı Kırmızı Beyaz Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -607,8 +607,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-67",
     "name": "Kırmızı Antoryum",
-    "image": "assets/bouquets/yade-safari-035.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-035.webp",
+    "image": "assets/bouquets/yade-safari-035.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-035.studio.webp",
     "alt": "Kırmızı Antoryum — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null,
@@ -617,8 +617,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-68",
     "name": "Pembe Mavi Beyaz Aranjman",
-    "image": "assets/bouquets/yade-safari-036.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-036.webp",
+    "image": "assets/bouquets/yade-safari-036.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-036.studio.webp",
     "alt": "Pembe Mavi Beyaz Aranjman — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -627,8 +627,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-69",
     "name": "Mavi Beyaz Gül Buketi",
-    "image": "assets/bouquets/yade-safari-037.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-037.webp",
+    "image": "assets/bouquets/yade-safari-037.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-037.studio.webp",
     "alt": "Mavi Beyaz Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -637,8 +637,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-70",
     "name": "Beyaz Lilyum ve Gül Buketi",
-    "image": "assets/bouquets/yade-safari-038.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-038.webp",
+    "image": "assets/bouquets/yade-safari-038.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-038.studio.webp",
     "alt": "Beyaz Lilyum ve Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -647,8 +647,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-71",
     "name": "Sarı Beyaz Açılış Çelengi",
-    "image": "assets/bouquets/yade-safari-040.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-040.webp",
+    "image": "assets/bouquets/yade-safari-040.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-040.studio.webp",
     "alt": "Sarı Beyaz Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -657,8 +657,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-72",
     "name": "Ayçiçeği ve Renkli Gerberalar",
-    "image": "assets/bouquets/yade-safari-042.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-042.webp",
+    "image": "assets/bouquets/yade-safari-042.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-042.studio.webp",
     "alt": "Ayçiçeği ve Renkli Gerberalar — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -667,8 +667,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-73",
     "name": "Sarı Kırmızı Ayaklı Çelenk",
-    "image": "assets/bouquets/yade-safari-043.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-043.webp",
+    "image": "assets/bouquets/yade-safari-043.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-043.studio.webp",
     "alt": "Sarı Kırmızı Ayaklı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -677,8 +677,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-74",
     "name": "Siyah Altın Ambalajlı Güller",
-    "image": "assets/bouquets/yade-safari-044.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-044.webp",
+    "image": "assets/bouquets/yade-safari-044.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-044.studio.webp",
     "alt": "Siyah Altın Ambalajlı Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -687,8 +687,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-75",
     "name": "Beyaz Orkide ve Pembe Çiçekler",
-    "image": "assets/bouquets/yade-safari-047.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-047.webp",
+    "image": "assets/bouquets/yade-safari-047.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-047.studio.webp",
     "alt": "Beyaz Orkide ve Pembe Çiçekler — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -697,8 +697,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-76",
     "name": "Beyaz Lilyum ve Mor Buket",
-    "image": "assets/bouquets/yade-safari-048.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-048.webp",
+    "image": "assets/bouquets/yade-safari-048.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-048.studio.webp",
     "alt": "Beyaz Lilyum ve Mor Buket — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -707,8 +707,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-77",
     "name": "Üç Katlı Kırmızı Çelenk",
-    "image": "assets/bouquets/yade-safari-049.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-049.webp",
+    "image": "assets/bouquets/yade-safari-049.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-049.studio.webp",
     "alt": "Üç Katlı Kırmızı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -717,8 +717,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-78",
     "name": "Cam Kasede Kırmızı Beyaz Çiçekler",
-    "image": "assets/bouquets/yade-safari-051.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-051.webp",
+    "image": "assets/bouquets/yade-safari-051.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-051.studio.webp",
     "alt": "Cam Kasede Kırmızı Beyaz Çiçekler — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -727,8 +727,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-79",
     "name": "Sarı Beyaz Tek Katlı Çelenk",
-    "image": "assets/bouquets/yade-safari-053.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-053.webp",
+    "image": "assets/bouquets/yade-safari-053.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-053.studio.webp",
     "alt": "Sarı Beyaz Tek Katlı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -737,8 +737,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-80",
     "name": "Hasır Ambalajlı Drasena",
-    "image": "assets/bouquets/yade-safari-055.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-055.webp",
+    "image": "assets/bouquets/yade-safari-055.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-055.studio.webp",
     "alt": "Hasır Ambalajlı Drasena — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null,
@@ -747,8 +747,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-81",
     "name": "Beyaz Lilyum ve Cipso Buketi",
-    "image": "assets/bouquets/yade-safari-056.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-056.webp",
+    "image": "assets/bouquets/yade-safari-056.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-056.studio.webp",
     "alt": "Beyaz Lilyum ve Cipso Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -757,8 +757,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-82",
     "name": "Beyaz Ambalajlı Drasena",
-    "image": "assets/bouquets/yade-safari-057.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-057.webp",
+    "image": "assets/bouquets/yade-safari-057.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-057.studio.webp",
     "alt": "Beyaz Ambalajlı Drasena — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null,
@@ -767,8 +767,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-83",
     "name": "Sarkıt Beyaz Gelin Buketi",
-    "image": "assets/bouquets/yade-safari-058.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-058.webp",
+    "image": "assets/bouquets/yade-safari-058.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-058.studio.webp",
     "alt": "Sarkıt Beyaz Gelin Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -777,8 +777,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-84",
     "name": "Beyaz Tören Çelengi",
-    "image": "assets/bouquets/yade-safari-059.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-059.webp",
+    "image": "assets/bouquets/yade-safari-059.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-059.studio.webp",
     "alt": "Beyaz Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "funeral",
     "price": null,
@@ -787,8 +787,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-85",
     "name": "Kırmızı Dikdörtgen Çelenk",
-    "image": "assets/bouquets/yade-safari-061.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-061.webp",
+    "image": "assets/bouquets/yade-safari-061.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-061.studio.webp",
     "alt": "Kırmızı Dikdörtgen Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -797,8 +797,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-86",
     "name": "Pembe Desenli Renkli Buket",
-    "image": "assets/bouquets/yade-safari-062.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-062.webp",
+    "image": "assets/bouquets/yade-safari-062.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-062.studio.webp",
     "alt": "Pembe Desenli Renkli Buket — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -807,8 +807,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-87",
     "name": "Turuncu Sarı Açılış Çelengi",
-    "image": "assets/bouquets/yade-safari-063.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-063.webp",
+    "image": "assets/bouquets/yade-safari-063.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-063.studio.webp",
     "alt": "Turuncu Sarı Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -817,8 +817,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-88",
     "name": "Krem Ambalajlı Bahar Buketi",
-    "image": "assets/bouquets/yade-safari-065.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-065.webp",
+    "image": "assets/bouquets/yade-safari-065.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-065.studio.webp",
     "alt": "Krem Ambalajlı Bahar Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -827,8 +827,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-89",
     "name": "Beyaz Orkide Saksısı",
-    "image": "assets/bouquets/yade-safari-067.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-067.webp",
+    "image": "assets/bouquets/yade-safari-067.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-067.studio.webp",
     "alt": "Beyaz Orkide Saksısı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null,
@@ -837,8 +837,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-90",
     "name": "Pembe Güllü Tören Çelengi",
-    "image": "assets/bouquets/yade-safari-069.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-069.webp",
+    "image": "assets/bouquets/yade-safari-069.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-069.studio.webp",
     "alt": "Pembe Güllü Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -847,8 +847,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-91",
     "name": "Kraft Ambalajlı Guzmanya",
-    "image": "assets/bouquets/yade-safari-071.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-071.webp",
+    "image": "assets/bouquets/yade-safari-071.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-071.studio.webp",
     "alt": "Kraft Ambalajlı Guzmanya — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null,
@@ -857,8 +857,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-92",
     "name": "Pembe Beyaz Tören Aranjmanı",
-    "image": "assets/bouquets/yade-safari-073.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-073.webp",
+    "image": "assets/bouquets/yade-safari-073.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-073.studio.webp",
     "alt": "Pembe Beyaz Tören Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -867,8 +867,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-93",
     "name": "Krem Pembe Ayaklı Çelenk",
-    "image": "assets/bouquets/yade-safari-074.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-074.webp",
+    "image": "assets/bouquets/yade-safari-074.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-074.studio.webp",
     "alt": "Krem Pembe Ayaklı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -877,8 +877,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-94",
     "name": "Pembe Gül ve Okaliptüs Buketi",
-    "image": "assets/bouquets/yade-safari-075.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-075.webp",
+    "image": "assets/bouquets/yade-safari-075.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-075.studio.webp",
     "alt": "Pembe Gül ve Okaliptüs Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -887,8 +887,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-95",
     "name": "Krem Pembe Lilyum Buketi",
-    "image": "assets/bouquets/yade-safari-076.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-076.webp",
+    "image": "assets/bouquets/yade-safari-076.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-076.studio.webp",
     "alt": "Krem Pembe Lilyum Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -897,8 +897,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-96",
     "name": "Beyaz Çiçekli Masa Aranjmanı",
-    "image": "assets/bouquets/yade-safari-077.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-077.webp",
+    "image": "assets/bouquets/yade-safari-077.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-077.studio.webp",
     "alt": "Beyaz Çiçekli Masa Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -907,8 +907,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-97",
     "name": "Hasırda Kırmızı Guzmanya",
-    "image": "assets/bouquets/yade-safari-078.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-078.webp",
+    "image": "assets/bouquets/yade-safari-078.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-078.studio.webp",
     "alt": "Hasırda Kırmızı Guzmanya — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null,
@@ -917,8 +917,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-98",
     "name": "Sarı Ambalajlı Kırmızı Güller",
-    "image": "assets/bouquets/yade-safari-079.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-079.webp",
+    "image": "assets/bouquets/yade-safari-079.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-079.studio.webp",
     "alt": "Sarı Ambalajlı Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -927,8 +927,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-99",
     "name": "Sarı Ambalajlı Renkli Mevsim Buketi",
-    "image": "assets/bouquets/yade-safari-082.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-082.webp",
+    "image": "assets/bouquets/yade-safari-082.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-082.studio.webp",
     "alt": "Sarı Ambalajlı Renkli Mevsim Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -937,8 +937,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-100",
     "name": "Turuncu Sarı Tören Çelengi",
-    "image": "assets/bouquets/yade-safari-083.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-083.webp",
+    "image": "assets/bouquets/yade-safari-083.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-083.studio.webp",
     "alt": "Turuncu Sarı Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -947,8 +947,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-101",
     "name": "Ayçiçeği ve Beyaz Çiçekler",
-    "image": "assets/bouquets/yade-safari-085.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-085.webp",
+    "image": "assets/bouquets/yade-safari-085.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-085.studio.webp",
     "alt": "Ayçiçeği ve Beyaz Çiçekler — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -957,8 +957,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-102",
     "name": "Kırmızı Beyaz Anma Çelengi",
-    "image": "assets/bouquets/yade-safari-088.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-088.webp",
+    "image": "assets/bouquets/yade-safari-088.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-088.studio.webp",
     "alt": "Kırmızı Beyaz Anma Çelengi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "funeral",
     "price": null,
@@ -967,8 +967,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-103",
     "name": "Uzun Drasena Saksısı",
-    "image": "assets/bouquets/yade-safari-091.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-091.webp",
+    "image": "assets/bouquets/yade-safari-091.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-091.studio.webp",
     "alt": "Uzun Drasena Saksısı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null,
@@ -977,8 +977,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-104",
     "name": "Turuncu Beyaz Ayaklı Çelenk",
-    "image": "assets/bouquets/yade-safari-092.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-092.webp",
+    "image": "assets/bouquets/yade-safari-092.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-092.studio.webp",
     "alt": "Turuncu Beyaz Ayaklı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -987,8 +987,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-105",
     "name": "Kutuda Çiçek ve Hediye Aranjmanı",
-    "image": "assets/bouquets/yade-safari-093.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-093.webp",
+    "image": "assets/bouquets/yade-safari-093.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-093.studio.webp",
     "alt": "Kutuda Çiçek ve Hediye Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -997,8 +997,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-106",
     "name": "Bordo Antoryum",
-    "image": "assets/bouquets/yade-safari-094.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-094.webp",
+    "image": "assets/bouquets/yade-safari-094.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-094.studio.webp",
     "alt": "Bordo Antoryum — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null,
@@ -1007,8 +1007,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-107",
     "name": "Beyaz Lale Gelin Buketi",
-    "image": "assets/bouquets/yade-safari-095.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-095.webp",
+    "image": "assets/bouquets/yade-safari-095.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-095.studio.webp",
     "alt": "Beyaz Lale Gelin Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1017,8 +1017,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-108",
     "name": "Beyaz Tüllü Saksı Bitkisi",
-    "image": "assets/bouquets/yade-safari-096.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-096.webp",
+    "image": "assets/bouquets/yade-safari-096.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-096.studio.webp",
     "alt": "Beyaz Tüllü Saksı Bitkisi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null,
@@ -1027,8 +1027,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-109",
     "name": "Beyaz Gül ve Lilyum Buketi",
-    "image": "assets/bouquets/yade-safari-097.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-097.webp",
+    "image": "assets/bouquets/yade-safari-097.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-097.studio.webp",
     "alt": "Beyaz Gül ve Lilyum Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1037,8 +1037,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-110",
     "name": "Ayçiçeği Buketi",
-    "image": "assets/bouquets/yade-safari-098.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-098.webp",
+    "image": "assets/bouquets/yade-safari-098.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-098.studio.webp",
     "alt": "Ayçiçeği Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1047,8 +1047,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-111",
     "name": "Pembe Orkide Aranjmanı",
-    "image": "assets/bouquets/yade-safari-099.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-099.webp",
+    "image": "assets/bouquets/yade-safari-099.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-099.studio.webp",
     "alt": "Pembe Orkide Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -1057,8 +1057,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-112",
     "name": "Sarı Pembe Açılış Çelengi",
-    "image": "assets/bouquets/yade-safari-100.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-100.webp",
+    "image": "assets/bouquets/yade-safari-100.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-100.studio.webp",
     "alt": "Sarı Pembe Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1067,8 +1067,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-113",
     "name": "Turuncu Pembe Tören Çelengi",
-    "image": "assets/bouquets/yade-safari-101.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-101.webp",
+    "image": "assets/bouquets/yade-safari-101.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-101.studio.webp",
     "alt": "Turuncu Pembe Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1077,8 +1077,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-114",
     "name": "Beyaz Sarı Pembe Çelenk",
-    "image": "assets/bouquets/yade-safari-103.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-103.webp",
+    "image": "assets/bouquets/yade-safari-103.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-103.studio.webp",
     "alt": "Beyaz Sarı Pembe Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1087,8 +1087,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-115",
     "name": "Kraft Ambalajlı Beyaz Orkide",
-    "image": "assets/bouquets/yade-safari-106.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-106.webp",
+    "image": "assets/bouquets/yade-safari-106.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-106.studio.webp",
     "alt": "Kraft Ambalajlı Beyaz Orkide — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null,
@@ -1097,8 +1097,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-116",
     "name": "Kırmızı Beyaz Tek Katlı Çelenk",
-    "image": "assets/bouquets/yade-safari-107.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-107.webp",
+    "image": "assets/bouquets/yade-safari-107.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-107.studio.webp",
     "alt": "Kırmızı Beyaz Tek Katlı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1107,8 +1107,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-117",
     "name": "Kalp Şeklinde Kırmızı Güller",
-    "image": "assets/bouquets/yade-safari-110.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-110.webp",
+    "image": "assets/bouquets/yade-safari-110.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-110.studio.webp",
     "alt": "Kalp Şeklinde Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1117,8 +1117,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-118",
     "name": "Krem Gül ve Yeşillik Buketi",
-    "image": "assets/bouquets/yade-safari-111.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-111.webp",
+    "image": "assets/bouquets/yade-safari-111.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-111.studio.webp",
     "alt": "Krem Gül ve Yeşillik Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1127,8 +1127,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-119",
     "name": "Kırmızı Beyaz Anma Aranjmanı",
-    "image": "assets/bouquets/yade-safari-112.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-112.webp",
+    "image": "assets/bouquets/yade-safari-112.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-112.studio.webp",
     "alt": "Kırmızı Beyaz Anma Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "funeral",
     "price": null,
@@ -1137,8 +1137,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-120",
     "name": "Kraftta Mor Beyaz Mevsim Buketi",
-    "image": "assets/bouquets/yade-safari-114.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-114.webp",
+    "image": "assets/bouquets/yade-safari-114.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-114.studio.webp",
     "alt": "Kraftta Mor Beyaz Mevsim Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1147,8 +1147,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-121",
     "name": "Siyah Ambalajlı Kırmızı Gül ve Cipso",
-    "image": "assets/bouquets/yade-safari-115.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-115.webp",
+    "image": "assets/bouquets/yade-safari-115.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-115.studio.webp",
     "alt": "Siyah Ambalajlı Kırmızı Gül ve Cipso — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1157,8 +1157,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-122",
     "name": "Sarı Kırmızı Tek Katlı Çelenk",
-    "image": "assets/bouquets/yade-safari-116.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-116.webp",
+    "image": "assets/bouquets/yade-safari-116.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-116.studio.webp",
     "alt": "Sarı Kırmızı Tek Katlı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1167,8 +1167,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-123",
     "name": "Beyaz Yeşil Tören Aranjmanı",
-    "image": "assets/bouquets/yade-safari-119.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-119.webp",
+    "image": "assets/bouquets/yade-safari-119.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-119.studio.webp",
     "alt": "Beyaz Yeşil Tören Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1177,8 +1177,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-124",
     "name": "Turuncu Sarı Açılış Aranjmanı",
-    "image": "assets/bouquets/yade-safari-121.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-121.webp",
+    "image": "assets/bouquets/yade-safari-121.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-121.studio.webp",
     "alt": "Turuncu Sarı Açılış Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1187,8 +1187,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-125",
     "name": "Ayıcıklı Pembe Beyaz Buket",
-    "image": "assets/bouquets/yade-safari-122.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-122.webp",
+    "image": "assets/bouquets/yade-safari-122.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-122.studio.webp",
     "alt": "Ayıcıklı Pembe Beyaz Buket — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -1197,8 +1197,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-126",
     "name": "Siyah Tüllü Kırmızı Güller",
-    "image": "assets/bouquets/yade-safari-123.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-123.webp",
+    "image": "assets/bouquets/yade-safari-123.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-123.studio.webp",
     "alt": "Siyah Tüllü Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1207,8 +1207,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-127",
     "name": "Mor Orkide Saksısı",
-    "image": "assets/bouquets/yade-safari-125.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-125.webp",
+    "image": "assets/bouquets/yade-safari-125.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-125.studio.webp",
     "alt": "Mor Orkide Saksısı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null,
@@ -1217,8 +1217,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-128",
     "name": "Beyaz Yeşil Açılış Çelengi",
-    "image": "assets/bouquets/yade-safari-128.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-128.webp",
+    "image": "assets/bouquets/yade-safari-128.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-128.studio.webp",
     "alt": "Beyaz Yeşil Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1227,8 +1227,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-129",
     "name": "Mesajlı Kırmızı Gül Aranjmanı",
-    "image": "assets/bouquets/yade-safari-130.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-130.webp",
+    "image": "assets/bouquets/yade-safari-130.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-130.studio.webp",
     "alt": "Mesajlı Kırmızı Gül Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -1237,8 +1237,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-130",
     "name": "Krem Tüllü Kırmızı Beyaz Buket",
-    "image": "assets/bouquets/yade-safari-131.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-131.webp",
+    "image": "assets/bouquets/yade-safari-131.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-131.studio.webp",
     "alt": "Krem Tüllü Kırmızı Beyaz Buket — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1247,8 +1247,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-131",
     "name": "İki Katlı Kırmızı Gül Aranjmanı",
-    "image": "assets/bouquets/yade-safari-133.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-133.webp",
+    "image": "assets/bouquets/yade-safari-133.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-133.studio.webp",
     "alt": "İki Katlı Kırmızı Gül Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1257,8 +1257,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-132",
     "name": "Turuncu Gerbera Buketi",
-    "image": "assets/bouquets/yade-safari-136.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-136.webp",
+    "image": "assets/bouquets/yade-safari-136.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-136.studio.webp",
     "alt": "Turuncu Gerbera Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1267,8 +1267,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-133",
     "name": "Sarı Beyaz Mavi Tören Çelengi",
-    "image": "assets/bouquets/yade-safari-137.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-137.webp",
+    "image": "assets/bouquets/yade-safari-137.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-137.studio.webp",
     "alt": "Sarı Beyaz Mavi Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1277,8 +1277,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-134",
     "name": "Cipsolu Kırmızı Gül Buketi",
-    "image": "assets/bouquets/yade-safari-139.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-139.webp",
+    "image": "assets/bouquets/yade-safari-139.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-139.studio.webp",
     "alt": "Cipsolu Kırmızı Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1287,8 +1287,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-135",
     "name": "Sarı Turuncu Açılış Çelengi",
-    "image": "assets/bouquets/yade-safari-141.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-141.webp",
+    "image": "assets/bouquets/yade-safari-141.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-141.studio.webp",
     "alt": "Sarı Turuncu Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1297,8 +1297,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-136",
     "name": "Kırmızı Kurdeleli Orkide",
-    "image": "assets/bouquets/yade-safari-145.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-145.webp",
+    "image": "assets/bouquets/yade-safari-145.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-145.studio.webp",
     "alt": "Kırmızı Kurdeleli Orkide — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null,
@@ -1307,8 +1307,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-137",
     "name": "Pembe Beyaz Tek Katlı Çelenk",
-    "image": "assets/bouquets/yade-safari-146.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-146.webp",
+    "image": "assets/bouquets/yade-safari-146.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-146.studio.webp",
     "alt": "Pembe Beyaz Tek Katlı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1317,8 +1317,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-138",
     "name": "Kırmızı Beyaz Tören Çelengi",
-    "image": "assets/bouquets/yade-safari-147.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-147.webp",
+    "image": "assets/bouquets/yade-safari-147.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-147.studio.webp",
     "alt": "Kırmızı Beyaz Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1327,8 +1327,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-139",
     "name": "Pembe Ambalajlı Gül ve Mevsim Çiçekleri",
-    "image": "assets/bouquets/yade-safari-148.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-148.webp",
+    "image": "assets/bouquets/yade-safari-148.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-148.studio.webp",
     "alt": "Pembe Ambalajlı Gül ve Mevsim Çiçekleri — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1337,8 +1337,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-140",
     "name": "Siyah Ambalajlı Kırmızı Beyaz Lilyum Buketi",
-    "image": "assets/bouquets/yade-safari-152.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-152.webp",
+    "image": "assets/bouquets/yade-safari-152.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-152.studio.webp",
     "alt": "Siyah Ambalajlı Kırmızı Beyaz Lilyum Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1347,8 +1347,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-141",
     "name": "Turuncu Ambalajlı Kırmızı Gül Buketi",
-    "image": "assets/bouquets/yade-safari-154.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-154.webp",
+    "image": "assets/bouquets/yade-safari-154.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-154.studio.webp",
     "alt": "Turuncu Ambalajlı Kırmızı Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1357,8 +1357,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-142",
     "name": "Doğal Pembe Gül Buketi",
-    "image": "assets/bouquets/yade-safari-155.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-155.webp",
+    "image": "assets/bouquets/yade-safari-155.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-155.studio.webp",
     "alt": "Doğal Pembe Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1367,8 +1367,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-143",
     "name": "Hasırda Pembe Gül ve Kasımpatı",
-    "image": "assets/bouquets/yade-safari-157.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-157.webp",
+    "image": "assets/bouquets/yade-safari-157.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-157.studio.webp",
     "alt": "Hasırda Pembe Gül ve Kasımpatı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1377,8 +1377,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-144",
     "name": "Kutuda Kırmızı Beyaz Güller",
-    "image": "assets/bouquets/yade-safari-159.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-159.webp",
+    "image": "assets/bouquets/yade-safari-159.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-159.studio.webp",
     "alt": "Kutuda Kırmızı Beyaz Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -1387,8 +1387,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-145",
     "name": "Kutuda Lila Beyaz Güller",
-    "image": "assets/bouquets/yade-safari-160.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-160.webp",
+    "image": "assets/bouquets/yade-safari-160.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-160.studio.webp",
     "alt": "Kutuda Lila Beyaz Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -1397,8 +1397,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-146",
     "name": "Turuncu Kurdeleli Renkli Buket",
-    "image": "assets/bouquets/yade-safari-161.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-161.webp",
+    "image": "assets/bouquets/yade-safari-161.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-161.studio.webp",
     "alt": "Turuncu Kurdeleli Renkli Buket — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1407,8 +1407,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-147",
     "name": "Sarı Turuncu Beyaz Çelenk",
-    "image": "assets/bouquets/yade-safari-162.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-162.webp",
+    "image": "assets/bouquets/yade-safari-162.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-162.studio.webp",
     "alt": "Sarı Turuncu Beyaz Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1417,8 +1417,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-148",
     "name": "Tüllü Beyaz Gül ve Cipso Buketi",
-    "image": "assets/bouquets/yade-safari-164.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-164.webp",
+    "image": "assets/bouquets/yade-safari-164.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-164.studio.webp",
     "alt": "Tüllü Beyaz Gül ve Cipso Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1427,8 +1427,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-149",
     "name": "Pastel Renkli İki Katlı Çelenk",
-    "image": "assets/bouquets/yade-safari-168.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-168.webp",
+    "image": "assets/bouquets/yade-safari-168.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-168.studio.webp",
     "alt": "Pastel Renkli İki Katlı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1437,8 +1437,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-150",
     "name": "Pembe Gerbera Buketi",
-    "image": "assets/bouquets/yade-safari-169.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-169.webp",
+    "image": "assets/bouquets/yade-safari-169.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-169.studio.webp",
     "alt": "Pembe Gerbera Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1447,8 +1447,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-151",
     "name": "Sarı Ambalajlı Beyaz Güller",
-    "image": "assets/bouquets/yade-safari-170.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-170.webp",
+    "image": "assets/bouquets/yade-safari-170.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-170.studio.webp",
     "alt": "Sarı Ambalajlı Beyaz Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1457,8 +1457,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-152",
     "name": "Hasırda Beyaz Güller",
-    "image": "assets/bouquets/yade-safari-171.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-171.webp",
+    "image": "assets/bouquets/yade-safari-171.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-171.studio.webp",
     "alt": "Hasırda Beyaz Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1467,8 +1467,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-153",
     "name": "Beyaz Ambalajlı Krem Güller",
-    "image": "assets/bouquets/yade-safari-173.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-173.webp",
+    "image": "assets/bouquets/yade-safari-173.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-173.studio.webp",
     "alt": "Beyaz Ambalajlı Krem Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1477,8 +1477,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-154",
     "name": "Siyah Kutuda Kırmızı Güller",
-    "image": "assets/bouquets/yade-safari-175.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-175.webp",
+    "image": "assets/bouquets/yade-safari-175.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-175.studio.webp",
     "alt": "Siyah Kutuda Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -1487,8 +1487,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-155",
     "name": "Pembe Ambalajlı Büyük Kırmızı Gül Buketi",
-    "image": "assets/bouquets/yade-safari-176.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-176.webp",
+    "image": "assets/bouquets/yade-safari-176.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-176.studio.webp",
     "alt": "Pembe Ambalajlı Büyük Kırmızı Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1497,8 +1497,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-156",
     "name": "Beyaz Kasımpatı ve Mor Çiçekler",
-    "image": "assets/bouquets/yade-safari-177.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-177.webp",
+    "image": "assets/bouquets/yade-safari-177.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-177.studio.webp",
     "alt": "Beyaz Kasımpatı ve Mor Çiçekler — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1507,8 +1507,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-157",
     "name": "Cipso ve Kuru Çiçek Buketi",
-    "image": "assets/bouquets/yade-safari-178.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-178.webp",
+    "image": "assets/bouquets/yade-safari-178.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-178.studio.webp",
     "alt": "Cipso ve Kuru Çiçek Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1517,8 +1517,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-158",
     "name": "Kraftta Kırmızı Gül ve Cipso",
-    "image": "assets/bouquets/yade-safari-180.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-180.webp",
+    "image": "assets/bouquets/yade-safari-180.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-180.studio.webp",
     "alt": "Kraftta Kırmızı Gül ve Cipso — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1527,8 +1527,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-159",
     "name": "Mavi Ambalajlı Pembe Lila Buket",
-    "image": "assets/bouquets/yade-safari-181.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-181.webp",
+    "image": "assets/bouquets/yade-safari-181.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-181.studio.webp",
     "alt": "Mavi Ambalajlı Pembe Lila Buket — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1537,8 +1537,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-160",
     "name": "Turuncu Beyaz Açılış Çelengi",
-    "image": "assets/bouquets/yade-safari-182.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-182.webp",
+    "image": "assets/bouquets/yade-safari-182.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-182.studio.webp",
     "alt": "Turuncu Beyaz Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "wreath",
     "price": null,
@@ -1547,8 +1547,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-161",
     "name": "Kırmızı Beyaz Gül Aranjmanı",
-    "image": "assets/bouquets/yade-safari-183.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-183.webp",
+    "image": "assets/bouquets/yade-safari-183.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-183.studio.webp",
     "alt": "Kırmızı Beyaz Gül Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -1557,8 +1557,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-162",
     "name": "Pembe Tüllü Çiçek Hediyesi",
-    "image": "assets/bouquets/yade-safari-184.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-184.webp",
+    "image": "assets/bouquets/yade-safari-184.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-184.studio.webp",
     "alt": "Pembe Tüllü Çiçek Hediyesi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "arrangement",
     "price": null,
@@ -1567,8 +1567,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-163",
     "name": "Tören Kurdeleli Saksı Bitkisi",
-    "image": "assets/bouquets/yade-safari-185.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-185.webp",
+    "image": "assets/bouquets/yade-safari-185.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-185.studio.webp",
     "alt": "Tören Kurdeleli Saksı Bitkisi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null,
@@ -1577,8 +1577,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-164",
     "name": "Kırmızı Gül ve Yeşil Yaprak Buketi",
-    "image": "assets/bouquets/yade-safari-186.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-186.webp",
+    "image": "assets/bouquets/yade-safari-186.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-186.studio.webp",
     "alt": "Kırmızı Gül ve Yeşil Yaprak Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1587,8 +1587,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-165",
     "name": "Beyaz Tüllü Gelin Buketi",
-    "image": "assets/bouquets/yade-safari-188.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-188.webp",
+    "image": "assets/bouquets/yade-safari-188.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-188.studio.webp",
     "alt": "Beyaz Tüllü Gelin Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1597,8 +1597,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-166",
     "name": "Desenli Ambalajlı Kırmızı Güller",
-    "image": "assets/bouquets/yade-safari-191.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-191.webp",
+    "image": "assets/bouquets/yade-safari-191.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-191.studio.webp",
     "alt": "Desenli Ambalajlı Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1607,8 +1607,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-167",
     "name": "Kraftta Fuşya Güller",
-    "image": "assets/bouquets/yade-safari-192.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-192.webp",
+    "image": "assets/bouquets/yade-safari-192.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-192.studio.webp",
     "alt": "Kraftta Fuşya Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1617,8 +1617,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-168",
     "name": "Pembe Lale Buketi",
-    "image": "assets/bouquets/yade-safari-193.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-193.webp",
+    "image": "assets/bouquets/yade-safari-193.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-193.studio.webp",
     "alt": "Pembe Lale Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1627,8 +1627,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-169",
     "name": "Kırmızı Sarı Gül Buketi",
-    "image": "assets/bouquets/yade-safari-194.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-194.webp",
+    "image": "assets/bouquets/yade-safari-194.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-194.studio.webp",
     "alt": "Kırmızı Sarı Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1637,8 +1637,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-170",
     "name": "Sarı Kurdeleli Kırmızı Beyaz Buket",
-    "image": "assets/bouquets/yade-safari-195.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-195.webp",
+    "image": "assets/bouquets/yade-safari-195.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-195.studio.webp",
     "alt": "Sarı Kurdeleli Kırmızı Beyaz Buket — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1647,8 +1647,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-171",
     "name": "Beyaz Gül ve Cipso Buketi",
-    "image": "assets/bouquets/yade-safari-197.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-197.webp",
+    "image": "assets/bouquets/yade-safari-197.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-197.studio.webp",
     "alt": "Beyaz Gül ve Cipso Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1657,8 +1657,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-172",
     "name": "Kırmızı Beyaz Kalp Gül Buketi",
-    "image": "assets/bouquets/yade-safari-198.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-198.webp",
+    "image": "assets/bouquets/yade-safari-198.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-198.studio.webp",
     "alt": "Kırmızı Beyaz Kalp Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1667,8 +1667,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-173",
     "name": "Sarı Ambalajlı Kırmızı Beyaz Mevsim Buketi",
-    "image": "assets/bouquets/yade-safari-201.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-201.webp",
+    "image": "assets/bouquets/yade-safari-201.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-201.studio.webp",
     "alt": "Sarı Ambalajlı Kırmızı Beyaz Mevsim Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1677,8 +1677,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-174",
     "name": "Siyah Beyaz Ambalajlı Kırmızı Güller",
-    "image": "assets/bouquets/yade-safari-203.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-203.webp",
+    "image": "assets/bouquets/yade-safari-203.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-203.studio.webp",
     "alt": "Siyah Beyaz Ambalajlı Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1687,8 +1687,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-175",
     "name": "Hasırda Krem Gül Buketi",
-    "image": "assets/bouquets/yade-safari-204.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-204.webp",
+    "image": "assets/bouquets/yade-safari-204.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-204.studio.webp",
     "alt": "Hasırda Krem Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1697,8 +1697,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-176",
     "name": "Turuncu Ambalajlı Orkide",
-    "image": "assets/bouquets/yade-safari-205.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-205.webp",
+    "image": "assets/bouquets/yade-safari-205.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-205.studio.webp",
     "alt": "Turuncu Ambalajlı Orkide — Yade Flowers gerçek ürün fotoğrafı",
     "category": "potted",
     "price": null,
@@ -1707,8 +1707,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-177",
     "name": "Paketli Gül Hediye Buketi",
-    "image": "assets/bouquets/yade-safari-210.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-210.webp",
+    "image": "assets/bouquets/yade-safari-210.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-210.studio.webp",
     "alt": "Paketli Gül Hediye Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1717,8 +1717,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-178",
     "name": "Krem Ambalajlı Beyaz Lilyum",
-    "image": "assets/bouquets/yade-safari-211.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-211.webp",
+    "image": "assets/bouquets/yade-safari-211.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-211.studio.webp",
     "alt": "Krem Ambalajlı Beyaz Lilyum — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1727,8 +1727,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-179",
     "name": "Beyaz Ambalajlı Lilyum Buketi",
-    "image": "assets/bouquets/yade-safari-212.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-212.webp",
+    "image": "assets/bouquets/yade-safari-212.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-212.studio.webp",
     "alt": "Beyaz Ambalajlı Lilyum Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1737,8 +1737,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-180",
     "name": "Desenli Ambalajlı Beyaz Buket",
-    "image": "assets/bouquets/yade-safari-213.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-213.webp",
+    "image": "assets/bouquets/yade-safari-213.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-213.studio.webp",
     "alt": "Desenli Ambalajlı Beyaz Buket — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1747,8 +1747,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-181",
     "name": "Kraftta Şeftali Beyaz Güller",
-    "image": "assets/bouquets/yade-safari-214.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-214.webp",
+    "image": "assets/bouquets/yade-safari-214.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-214.studio.webp",
     "alt": "Kraftta Şeftali Beyaz Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1757,8 +1757,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-182",
     "name": "Yeşil Ambalajlı Pembe Kırmızı Güller",
-    "image": "assets/bouquets/yade-safari-215.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-215.webp",
+    "image": "assets/bouquets/yade-safari-215.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-215.studio.webp",
     "alt": "Yeşil Ambalajlı Pembe Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1767,8 +1767,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-183",
     "name": "Ekose Ambalajlı Krem Güller",
-    "image": "assets/bouquets/yade-safari-216.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-216.webp",
+    "image": "assets/bouquets/yade-safari-216.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-216.studio.webp",
     "alt": "Ekose Ambalajlı Krem Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1777,8 +1777,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-184",
     "name": "Kare Desenli Pembe Gül Buketi",
-    "image": "assets/bouquets/yade-safari-217.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-217.webp",
+    "image": "assets/bouquets/yade-safari-217.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-217.studio.webp",
     "alt": "Kare Desenli Pembe Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1787,8 +1787,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-185",
     "name": "Kırmızı Ambalajlı Gül ve Cipso",
-    "image": "assets/bouquets/yade-safari-218.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-218.webp",
+    "image": "assets/bouquets/yade-safari-218.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-218.studio.webp",
     "alt": "Kırmızı Ambalajlı Gül ve Cipso — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1797,8 +1797,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-186",
     "name": "Kırmızı Kurdeleli Pembe Gerberalar",
-    "image": "assets/bouquets/yade-safari-219.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-219.webp",
+    "image": "assets/bouquets/yade-safari-219.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-219.studio.webp",
     "alt": "Kırmızı Kurdeleli Pembe Gerberalar — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1807,8 +1807,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-187",
     "name": "Sarı Kurdeleli Lilyum Buketi",
-    "image": "assets/bouquets/yade-safari-220.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-220.webp",
+    "image": "assets/bouquets/yade-safari-220.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-220.studio.webp",
     "alt": "Sarı Kurdeleli Lilyum Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1817,8 +1817,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-188",
     "name": "Siyah Ambalajlı Gül ve Beyaz Cipso",
-    "image": "assets/bouquets/yade-safari-222.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-222.webp",
+    "image": "assets/bouquets/yade-safari-222.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-222.studio.webp",
     "alt": "Siyah Ambalajlı Gül ve Beyaz Cipso — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1827,8 +1827,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-189",
     "name": "Beyaz Kurdeleli Krem Güller",
-    "image": "assets/bouquets/yade-safari-225.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-225.webp",
+    "image": "assets/bouquets/yade-safari-225.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-225.studio.webp",
     "alt": "Beyaz Kurdeleli Krem Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1837,8 +1837,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-190",
     "name": "Kraft ve Hasırda Pembe Güller",
-    "image": "assets/bouquets/yade-safari-227.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-227.webp",
+    "image": "assets/bouquets/yade-safari-227.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-227.studio.webp",
     "alt": "Kraft ve Hasırda Pembe Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1847,8 +1847,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-191",
     "name": "Mor Sarı Şebboy Buketi",
-    "image": "assets/bouquets/yade-safari-228.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-228.webp",
+    "image": "assets/bouquets/yade-safari-228.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-228.studio.webp",
     "alt": "Mor Sarı Şebboy Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1857,8 +1857,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-192",
     "name": "Fuşya Sarı Mevsim Buketi",
-    "image": "assets/bouquets/yade-safari-229.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-229.webp",
+    "image": "assets/bouquets/yade-safari-229.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-229.studio.webp",
     "alt": "Fuşya Sarı Mevsim Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1867,8 +1867,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-193",
     "name": "Kırmızı Ambalajlı Renkli Çiçekler",
-    "image": "assets/bouquets/yade-safari-230.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-230.webp",
+    "image": "assets/bouquets/yade-safari-230.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-230.studio.webp",
     "alt": "Kırmızı Ambalajlı Renkli Çiçekler — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1877,8 +1877,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-194",
     "name": "Kraftta Pembe Beyaz Kasımpatı",
-    "image": "assets/bouquets/yade-safari-231.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-231.webp",
+    "image": "assets/bouquets/yade-safari-231.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-231.studio.webp",
     "alt": "Kraftta Pembe Beyaz Kasımpatı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1887,8 +1887,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-195",
     "name": "Mavi Ambalajlı Fuşya Güller",
-    "image": "assets/bouquets/yade-safari-232.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-232.webp",
+    "image": "assets/bouquets/yade-safari-232.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-232.studio.webp",
     "alt": "Mavi Ambalajlı Fuşya Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1897,8 +1897,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-196",
     "name": "Bordo Ambalajlı Kırmızı Gül Buketi",
-    "image": "assets/bouquets/yade-safari-233.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-233.webp",
+    "image": "assets/bouquets/yade-safari-233.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-233.studio.webp",
     "alt": "Bordo Ambalajlı Kırmızı Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1907,8 +1907,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-197",
     "name": "Altın Ambalajlı Kırmızı Gül Buketi",
-    "image": "assets/bouquets/yade-safari-234.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-234.webp",
+    "image": "assets/bouquets/yade-safari-234.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-234.studio.webp",
     "alt": "Altın Ambalajlı Kırmızı Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1917,8 +1917,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-198",
     "name": "Turuncu Kurdeleli Beyaz Kırmızı Buket",
-    "image": "assets/bouquets/yade-safari-235.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-235.webp",
+    "image": "assets/bouquets/yade-safari-235.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-235.studio.webp",
     "alt": "Turuncu Kurdeleli Beyaz Kırmızı Buket — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1927,8 +1927,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-199",
     "name": "Sarı Beyaz Pembe Mevsim Buketi",
-    "image": "assets/bouquets/yade-safari-236.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-236.webp",
+    "image": "assets/bouquets/yade-safari-236.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-236.studio.webp",
     "alt": "Sarı Beyaz Pembe Mevsim Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1937,8 +1937,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-200",
     "name": "Kırmızı Ambalajlı Beyaz Kasımpatı",
-    "image": "assets/bouquets/yade-safari-237.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-237.webp",
+    "image": "assets/bouquets/yade-safari-237.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-237.studio.webp",
     "alt": "Kırmızı Ambalajlı Beyaz Kasımpatı — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1947,8 +1947,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-201",
     "name": "Siyah Beyaz Ambalajlı Lilyum Buketi",
-    "image": "assets/bouquets/yade-safari-238.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-238.webp",
+    "image": "assets/bouquets/yade-safari-238.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-238.studio.webp",
     "alt": "Siyah Beyaz Ambalajlı Lilyum Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1957,8 +1957,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-202",
     "name": "Pembe Beyaz Gerbera Buketi",
-    "image": "assets/bouquets/yade-safari-239.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-239.webp",
+    "image": "assets/bouquets/yade-safari-239.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-239.studio.webp",
     "alt": "Pembe Beyaz Gerbera Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1967,8 +1967,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-203",
     "name": "Siyah Sarı Ambalajlı Kırmızı Güller",
-    "image": "assets/bouquets/yade-safari-242.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-242.webp",
+    "image": "assets/bouquets/yade-safari-242.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-242.studio.webp",
     "alt": "Siyah Sarı Ambalajlı Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1977,8 +1977,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-204",
     "name": "Kraft Ambalajlı Küçük Gül Buketi",
-    "image": "assets/bouquets/yade-safari-243.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-243.webp",
+    "image": "assets/bouquets/yade-safari-243.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-243.studio.webp",
     "alt": "Kraft Ambalajlı Küçük Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1987,8 +1987,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-205",
     "name": "Pembe Ambalajlı Gerbera Buketi",
-    "image": "assets/bouquets/yade-safari-244.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-244.webp",
+    "image": "assets/bouquets/yade-safari-244.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-244.studio.webp",
     "alt": "Pembe Ambalajlı Gerbera Buketi — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
@@ -1997,8 +1997,8 @@ window.FLOWER_CONTENT={
   {
     "id": "YD-206",
     "name": "Kraft Ambalajlı Pastel Buket",
-    "image": "assets/bouquets/yade-safari-245.thumb.webp",
-    "fullImage": "assets/bouquets/yade-safari-245.webp",
+    "image": "assets/bouquets/yade-safari-245.studio.thumb.webp",
+    "fullImage": "assets/bouquets/yade-safari-245.studio.webp",
     "alt": "Kraft Ambalajlı Pastel Buket — Yade Flowers gerçek ürün fotoğrafı",
     "category": "flowers",
     "price": null,
