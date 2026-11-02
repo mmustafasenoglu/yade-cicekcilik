@@ -131,8 +131,8 @@ window.FLOWER_CONTENT = {
     {
       "id": "YD-13",
       "name": "Mor ve Pembe Çiçekler",
-      "image": "assets/bouquets/yade-13.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-13.studio.webp",
+      "image": "assets/bouquets/yade-13.thumb.webp",
+      "fullImage": "assets/bouquets/yade-13.webp",
       "alt": "Mor ve Pembe Çiçekler — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
       "price": 200000,
@@ -211,8 +211,8 @@ window.FLOWER_CONTENT = {
     {
       "id": "YD-22",
       "name": "Kırmızı Çiçekli Yazılı Çelenk",
-      "image": "assets/bouquets/yade-22.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-22.studio.webp",
+      "image": "assets/bouquets/yade-22.thumb.webp",
+      "fullImage": "assets/bouquets/yade-22.webp",
       "alt": "Yeşil yaprak çerçeveli, beyaz harflerle yazılı kırmızı dikdörtgen çelenk",
       "category": "wreath",
       "price": 450000,
