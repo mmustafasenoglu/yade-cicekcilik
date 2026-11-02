@@ -284,8 +284,8 @@ window.FLOWER_CONTENT = {
     {
       "id": "YD-30",
       "name": "Kırmızı Beyaz Çift Katlı Çelenk",
-      "image": "assets/bouquets/yade-30.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-30.studio.webp",
+      "image": "assets/bouquets/yade-30.thumb.webp",
+      "fullImage": "assets/bouquets/yade-30.webp",
       "alt": "Kırmızı Beyaz Çift Katlı Çelenk — gerçek ürün fotoğrafı",
       "category": "wreath",
       "price": 500000,
@@ -434,8 +434,8 @@ window.FLOWER_CONTENT = {
     {
       "id": "YD-46",
       "name": "Turuncu Üç Katlı Çelenk",
-      "image": "assets/bouquets/yade-46.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-46.studio.webp",
+      "image": "assets/bouquets/yade-46.thumb.webp",
+      "fullImage": "assets/bouquets/yade-46.webp",
       "alt": "Turuncu Üç Katlı Çelenk — Yade Google fotoğraf galerisinden",
       "category": "wreath",
       "price": 650000,
@@ -445,8 +445,8 @@ window.FLOWER_CONTENT = {
     {
       "id": "YD-47",
       "name": "Turuncu Sarı Çift Katlı Çelenk",
-      "image": "assets/bouquets/yade-47.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-47.studio.webp",
+      "image": "assets/bouquets/yade-47.thumb.webp",
+      "fullImage": "assets/bouquets/yade-47.webp",
       "alt": "Turuncu Sarı Çift Katlı Çelenk — Yade Google fotoğraf galerisinden",
       "category": "wreath",
       "price": 500000,
