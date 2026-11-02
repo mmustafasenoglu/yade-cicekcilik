@@ -1,0 +1,75 @@
+[
+  {
+    "source": 26,
+    "alternateFor": "YD-23"
+  },
+  {
+    "source": 27,
+    "product": "YD-27"
+  },
+  {
+    "source": 28,
+    "product": "YD-28"
+  },
+  {
+    "source": 29,
+    "product": "YD-29"
+  },
+  {
+    "source": 30,
+    "product": "YD-30"
+  },
+  {
+    "source": 31,
+    "product": "YD-31"
+  },
+  {
+    "source": 32,
+    "product": "YD-32"
+  },
+  {
+    "source": 33,
+    "product": "YD-33"
+  },
+  {
+    "source": 34,
+    "product": "YD-34"
+  },
+  {
+    "source": 35,
+    "product": "YD-35"
+  },
+  {
+    "source": 36,
+    "duplicateOf": 34,
+    "sameBytes": true
+  },
+  {
+    "source": 37,
+    "product": "YD-37"
+  },
+  {
+    "source": 38,
+    "product": "YD-38"
+  },
+  {
+    "source": 39,
+    "product": "YD-39"
+  },
+  {
+    "source": 40,
+    "product": "YD-40"
+  },
+  {
+    "source": 41,
+    "product": "YD-41"
+  },
+  {
+    "source": 42,
+    "product": "YD-42"
+  },
+  {
+    "source": 43,
+    "product": "YD-43"
+  }
+]

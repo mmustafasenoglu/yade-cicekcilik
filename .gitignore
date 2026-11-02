@@ -1,0 +1,19 @@
+.DS_Store
+*.log
+node_modules/
+tmp/
+output/
+
+# Büyük kaynak dosyalar (deploy için gerekmez)
+*.mov
+*.mp4
+catalog-source/
+cicekler/
+
+# Geliştirme ekran görüntüleri
+yade-*.png
+atolye-*.png
+buket-*.png
+serbest-*.png
+ornek-*.pdf
+reference-review/
