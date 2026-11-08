@@ -2221,17 +2221,17 @@ window.FLOWER_CONTENT = {
     "kraft": {
       "label": "Kraft kâğıt",
       "cell": 0,
-      "price": 4000
+      "price": 0
     },
     "clear": {
       "label": "Şeffaf selofan",
       "cell": 1,
-      "price": 5000
+      "price": 0
     },
     "premium": {
       "label": "Premium çift kat",
       "cell": 2,
-      "price": 9000
+      "price": 0
     }
   }
 };
