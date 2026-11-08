@@ -610,8 +610,8 @@ window.FLOWER_CONTENT = {
     {
       "id": "YD-62",
       "name": "Üç Katlı Kırmızı Beyaz Çelenk",
-      "image": "assets/bouquets/yade-safari-029.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-029.studio.webp",
+      "image": "assets/bouquets/yade-safari-029.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-029.webp",
       "alt": "Üç Katlı Kırmızı Beyaz Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
       "price": 650000,
@@ -643,8 +643,8 @@ window.FLOWER_CONTENT = {
     {
       "id": "YD-65",
       "name": "Kutuda Beyaz Güller",
-      "image": "assets/bouquets/yade-safari-033.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-033.studio.webp",
+      "image": "assets/bouquets/yade-safari-033.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-033.webp",
       "alt": "Kutuda Beyaz Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "arrangement",
       "price": 400000,
@@ -654,8 +654,8 @@ window.FLOWER_CONTENT = {
     {
       "id": "YD-66",
       "name": "İki Katlı Kırmızı Beyaz Çelenk",
-      "image": "assets/bouquets/yade-safari-034.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-034.studio.webp",
+      "image": "assets/bouquets/yade-safari-034.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-034.webp",
       "alt": "İki Katlı Kırmızı Beyaz Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
       "price": 500000,
@@ -731,8 +731,8 @@ window.FLOWER_CONTENT = {
     {
       "id": "YD-73",
       "name": "Sarı Kırmızı Ayaklı Çelenk",
-      "image": "assets/bouquets/yade-safari-043.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-043.studio.webp",
+      "image": "assets/bouquets/yade-safari-043.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-043.webp",
       "alt": "Sarı Kırmızı Ayaklı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
       "price": 450000,
@@ -841,8 +841,8 @@ window.FLOWER_CONTENT = {
     {
       "id": "YD-84",
       "name": "Beyaz Tören Çelengi",
-      "image": "assets/bouquets/yade-safari-059.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-059.studio.webp",
+      "image": "assets/bouquets/yade-safari-059.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-059.webp",
       "alt": "Beyaz Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "funeral",
       "price": 450000,
@@ -995,8 +995,8 @@ window.FLOWER_CONTENT = {
     {
       "id": "YD-102",
       "name": "Kırmızı Beyaz Anma Çelengi",
-      "image": "assets/bouquets/yade-safari-088.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-088.studio.webp",
+      "image": "assets/bouquets/yade-safari-088.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-088.webp",
       "alt": "Kırmızı Beyaz Anma Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "funeral",
       "price": 500000,
@@ -1098,7 +1098,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-099.studio.webp",
       "alt": "Pembe Orkide Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "arrangement",
-      "price": 400000, "originalPrice": 500000,
+      "price": 400000,
+      "originalPrice": 500000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RPT0DBeXruWmyBPegnYb98FOpFoXkkxWkcRmmjw0hXLbCpSp8Sj2-en0af-evyygiTsZkgSIgstTmilwGU9lBf_2nEN7lVemD69NPIaCfWzXr3eASJuqCaV147LRlb-tzEa7RKU0Qyzxeo=s1600"
     },
     {
@@ -1108,37 +1109,41 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-100.webp",
       "alt": "Sarı Pembe Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S1IkZcWNwq9vA1f5P2g55o-lLkhrpSr9II9PXXlnT6Jvu15DFQZ2RmTya1JgXf1SNBD32U_EJrhozsvcna_29vPBz1P7jhnqYaKU8uP-4ZsCtgMU7JHqNmNKF0IUxKqK18gjO-=s1600"
     },
     {
       "id": "YD-113",
       "name": "Turuncu Pembe Tören Çelengi",
-      "image": "assets/bouquets/yade-safari-101.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-101.studio.webp",
+      "image": "assets/bouquets/yade-safari-101.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-101.webp",
       "alt": "Turuncu Pembe Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RPvAU_iiEMnTEm94hw-n98g8s1DR0DjokebIUNwf_Pw-bWURcuyQMP12zqAVZU8Etaqs0WyED-A8JPisjAWAZGvyQy9Hy0R7oSGcxvPKDX5gj_uDzIRkyea8lFDSjRC7-0YSPc=s1600"
     },
     {
       "id": "YD-114",
       "name": "Beyaz Sarı Pembe Çelenk",
-      "image": "assets/bouquets/yade-safari-103.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-103.studio.webp",
+      "image": "assets/bouquets/yade-safari-103.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-103.webp",
       "alt": "Beyaz Sarı Pembe Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TJtdTy-dl7FKTQfea6yj9fkduu81kJ37nYwImSoeqkotBoMfa-k-c3xfnj6Q0SrpJXRbe4X58Fb7U6GXm_hSOeZ87PPknq3mE_jlq6Jxud07IcEkPfERJE5lRNR2ht35ucXbYs=s1600"
     },
     {
       "id": "YD-115",
       "name": "Kraft Ambalajlı Beyaz Orkide",
-      "image": "assets/bouquets/yade-safari-106.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-106.studio.webp",
+      "image": "assets/bouquets/yade-safari-106.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-106.webp",
       "alt": "Kraft Ambalajlı Beyaz Orkide — Yade Flowers gerçek ürün fotoğrafı",
       "category": "potted",
-      "price": 300000, "originalPrice": 400000,
+      "price": 300000,
+      "originalPrice": 400000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Saw4gODuLFd-PwmaUyLz2Io9R-1rnZsR9nvSd9R71yOGtj3Qkgk1wQG0WcWZy6lkHss_1olSE44QJSvGd79s_tGVrGINYxx70oBKDsqWb5-BJeyc7JvelG74HM8dn_WPYMg6C5=s1600"
     },
     {
@@ -1148,17 +1153,19 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-107.webp",
       "alt": "Kırmızı Beyaz Tek Katlı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S_8kwgEhuajMJRalw8FbPjuqVkN-VBfRZXreXA2LdBqa26anJ1HPzSRAxOxBCHDS0dDzhkbOUqHEBbzxVAU45vmAdqXtjXVy6Yd3UXfMW1XC-CEadaCBS_Zxjo3SaYOOXhMFs=s1600"
     },
     {
       "id": "YD-117",
       "name": "Kalp Şeklinde Kırmızı Güller",
-      "image": "assets/bouquets/yade-safari-110.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-110.studio.webp",
+      "image": "assets/bouquets/yade-safari-110.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-110.webp",
       "alt": "Kalp Şeklinde Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sum_Gnb_3z1nqUltyerIfsCn_lBRSCraHkHxDjab47QMIDdrHuq5k9-GD7x5o1SgwGw5c09YJhsYDT_gFPdkPSau9k0Ub7hHnCP3OzHAp6nbPQch3hEyVgcyf12cNV0LWemDE=s1600"
     },
     {
@@ -1168,17 +1175,19 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-111.studio.webp",
       "alt": "Krem Gül ve Yeşillik Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QUoMjh7WojswCXhmMfh9I84zUHzHq9TS7k4tf5FAOlZG2IW2fjEGVaPVD7skBDnmQnG8CzEyBOthmHUW5cb_Ybs_X6ZS6MEyMzXBPJOqjNaZa9ojSJ0rYXJWrkbPS1M335hG8=s1600"
     },
     {
       "id": "YD-119",
       "name": "Kırmızı Beyaz Anma Aranjmanı",
-      "image": "assets/bouquets/yade-safari-112.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-112.studio.webp",
+      "image": "assets/bouquets/yade-safari-112.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-112.webp",
       "alt": "Kırmızı Beyaz Anma Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "funeral",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SfvOaCj2H-VsIQ3zuV0wOLxLZ3y3YxWvtnejnAqd4zvIHqd2AonbrLqsOvXXZh-3IIRsWQI5bC0ECmWhuttXH5eLi9FOcMpRrSet0xewTWzHpDg_cr8NHJXd885TX4Yksv4pMGtw=s1600"
     },
     {
@@ -1188,47 +1197,52 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-114.studio.webp",
       "alt": "Kraftta Mor Beyaz Mevsim Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T5OxuYHL8hfpHIzdqO2HWKc8A8Zw37mv6kRvytteR7t4FpCniZdIduRfueiPIt9vlAMVUGRaXUjZ-8RrITjugU0dVRPrl5DxzvqWexmmFLYq8z8nY5RfErSE_Xu2lS9nzgCaol=s1600"
     },
     {
       "id": "YD-121",
       "name": "Siyah Ambalajlı Kırmızı Gül ve Cipso",
-      "image": "assets/bouquets/yade-safari-115.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-115.studio.webp",
+      "image": "assets/bouquets/yade-safari-115.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-115.webp",
       "alt": "Siyah Ambalajlı Kırmızı Gül ve Cipso — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QRnKIhvVrZAhX8i8-xB7w4b98pAv7cLf4cJhKofQ6VFPDZI8ESddXa7SlJGSBgB1XDpZowUGDzzQL5-yxGz9nj2_7papLKWUC9bnowoJ7SocXiJiatmQmnx0e-xACd_QTy8jg=s1600"
     },
     {
       "id": "YD-122",
       "name": "Sarı Kırmızı Tek Katlı Çelenk",
-      "image": "assets/bouquets/yade-safari-116.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-116.studio.webp",
+      "image": "assets/bouquets/yade-safari-116.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-116.webp",
       "alt": "Sarı Kırmızı Tek Katlı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SXcCfdJv1y2Pphxp1LmtABAFzq8dXo6F_37DjUACmN0wf_1MQEzYffKr_uPghr8uZgI-I9w30T2Koy_NagvVJJ2F9_NDKkuIMwKapfCT51eEDpteGvjhKMdTAXIITcBN1YIk32Eg=s1600"
     },
     {
       "id": "YD-123",
       "name": "Beyaz Yeşil Tören Aranjmanı",
-      "image": "assets/bouquets/yade-safari-119.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-119.studio.webp",
+      "image": "assets/bouquets/yade-safari-119.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-119.webp",
       "alt": "Beyaz Yeşil Tören Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TQsorAK2nBn3hddanCUfqG8um0iTTf4MFkrC1hpPi3LLhm7zpsus32eW7O9odY9ajlBchVVImmXFO7u2CjAlIvfB8VA1NtxzC2FFha7u-jcUgg7y0aJm4KIfBko55iTmFMN-U0=s1600"
     },
     {
       "id": "YD-124",
       "name": "Turuncu Sarı Açılış Aranjmanı",
-      "image": "assets/bouquets/yade-safari-121.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-121.studio.webp",
+      "image": "assets/bouquets/yade-safari-121.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-121.webp",
       "alt": "Turuncu Sarı Açılış Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SBjBqBEMg5qKSYUU75uE8Mv68ZPwbPcbx1HiLNRtIMkmAHXdUyiVdCJ0JURrG9MASjpBetAK5taaB73tR4bxN83LysBpWpJua4zGX_Vtmc_IPRdXtwUgQNx7QOew9KEaC4UezA=s1600"
     },
     {
@@ -1238,7 +1252,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-122.webp",
       "alt": "Ayıcıklı Pembe Beyaz Buket — Yade Flowers gerçek ürün fotoğrafı",
       "category": "arrangement",
-      "price": 400000, "originalPrice": 500000,
+      "price": 400000,
+      "originalPrice": 500000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SqYZ8to_lFFhJrCBc_2j5KslnqziLPdXZTYJDi77R1MaBjhEoabbx7PX6KDqBjo5UF1TyOLPIVgDMbuLsCwpVVNqYCsrGbvZ_ZMFKztAxVy4bZMn8d0FdeYTdSFWX2Y0C5lAv8r-jwftc=s1600"
     },
     {
@@ -1248,7 +1263,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-123.studio.webp",
       "alt": "Siyah Tüllü Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RCiWZFlVzfUzCOxu1ZmneLHNxhJXmZL3ysYBkRhqfH0rMM6HY2R5GLDKbC0DvEmddGPK2g8ezE6839sLjxSOCJMG5QIQPHmHm7PNVI65453r51StpstIjgTS_gUE-A5YF1b8Y=s1600"
     },
     {
@@ -1258,17 +1274,19 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-125.studio.webp",
       "alt": "Mor Orkide Saksısı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "potted",
-      "price": 300000, "originalPrice": 400000,
+      "price": 300000,
+      "originalPrice": 400000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RXwSnsTdp3kvLOKQ--mVZW4XjL3rY6vOxOlh-9F4XZgtHwuflL840GsM6PD5nob7refDb9tHvnwPUFQDV64Bha4vlYLDn9qcB84goh3i2Et-_9OaYl-GPRdUOGhA1IrdwAbyo=s1600"
     },
     {
       "id": "YD-128",
       "name": "Beyaz Yeşil Açılış Çelengi",
-      "image": "assets/bouquets/yade-safari-128.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-128.studio.webp",
+      "image": "assets/bouquets/yade-safari-128.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-128.webp",
       "alt": "Beyaz Yeşil Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SiPLGt3LY_HCpEJBnxqNk-_Zzaa1E2XvG8QjOtvHkGCYYP3Ry3YXJwtDQDv88SNS0SokGmr_23LUzzs2_xluksUNhqdBc1G5Vzc8Sodmji4uYlhJAbm5UEzH6EVsPjaSkf2TUM=s1600"
     },
     {
@@ -1278,27 +1296,30 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-130.studio.webp",
       "alt": "Mesajlı Kırmızı Gül Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "arrangement",
-      "price": 400000, "originalPrice": 500000,
+      "price": 400000,
+      "originalPrice": 500000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TnmIvNGR5R_qGu70r2Q2cHjymMagrhWTaj1a9kVH-PolW7U2MlxwzTDNPaT1RpMqtZxxStR8NvQm6GRDA2A6MybnMNEMz3yBm3DxUmT0UCeEeuvb1f01p3bGMuJ1v3ZfMdRjlZCNceE3M=s1600"
     },
     {
       "id": "YD-130",
       "name": "Krem Tüllü Kırmızı Beyaz Buket",
-      "image": "assets/bouquets/yade-safari-131.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-131.studio.webp",
+      "image": "assets/bouquets/yade-safari-131.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-131.webp",
       "alt": "Krem Tüllü Kırmızı Beyaz Buket — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Trgk128WEMwzCe4-ipbJufcUnGU8cIQ5Z0IrkA9FJRR69qGlYmhjdG1ODqdVbNizFF4XuSoEzomeVP2J4DLMHcTC_ULJ9U9Xl2deVR8k8-uPh-NhhJBoZky8NN11KIDnGMJUQ=s1600"
     },
     {
       "id": "YD-131",
       "name": "İki Katlı Kırmızı Gül Aranjmanı",
-      "image": "assets/bouquets/yade-safari-133.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-133.studio.webp",
+      "image": "assets/bouquets/yade-safari-133.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-133.webp",
       "alt": "İki Katlı Kırmızı Gül Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RwvmWkCcJ3tygBWmWm32oBnkeAAHuRGfToDFQRa642XwyppER9bmVByiVFgPmsR1v_J6SRUZRrxIrog020rOB-PvjNc8VW5aCBKsM9MaKGatl2G4ELtwe4KxEmmCbi8hmCgToE=s1600"
     },
     {
@@ -1308,37 +1329,41 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-136.studio.webp",
       "alt": "Turuncu Gerbera Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SCgenVwMPL0izQ2DP4JZpZjCJF4GHBpSrUNf4Hd9UEE-ckgdi25kJQn-adrGh1Ssl0bcWAuOAT8iK2eOoVFOHhcTA_wffKV2lxboNmFqQw57co7NaVmST7KpkH_GnJmn1iMpgJ4Q=s1600"
     },
     {
       "id": "YD-133",
       "name": "Sarı Beyaz Mavi Tören Çelengi",
-      "image": "assets/bouquets/yade-safari-137.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-137.studio.webp",
+      "image": "assets/bouquets/yade-safari-137.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-137.webp",
       "alt": "Sarı Beyaz Mavi Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SJUZgZyY787UDs3i-iPnrumiuCpJN-LamnEUh6SOwFU4jXEEQKm5IBxyNtn_zKLNnW4IGOufgY7MRJ4CVEBveevCBfWelj3iklzh1-TtbVUrPDT_O8IhFFU_w0wlGIntIRhowMZw=s1600"
     },
     {
       "id": "YD-134",
       "name": "Cipsolu Kırmızı Gül Buketi",
-      "image": "assets/bouquets/yade-safari-139.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-139.studio.webp",
+      "image": "assets/bouquets/yade-safari-139.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-139.webp",
       "alt": "Cipsolu Kırmızı Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S3gQD1ibIwG9yUj9nYfYEsVzlSZBJOdRWQ2eI-rVmL9apC6B68Uf_8b-bSaI_p-9VTO_WtCYpLc4LCBljxDPzDBP1Sr1zkzFhG7_rgzZ7jNcrw325yBDEED7HO8MKAI3SHN98=s1600"
     },
     {
       "id": "YD-135",
       "name": "Sarı Turuncu Açılış Çelengi",
-      "image": "assets/bouquets/yade-safari-141.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-141.studio.webp",
+      "image": "assets/bouquets/yade-safari-141.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-141.webp",
       "alt": "Sarı Turuncu Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qt6smOfOrTSyc0UOhGCpVCNqFYej-_lNgS-MFBDKV57-zyPyR4_HJelT9ziWy58J4dWNbO3zRpj0WXhHAvatRvu2Qi52BT0fRN7q5psBgEb-dtZNot5pEO1LUEpUTOBzcL5t15NA=s1600"
     },
     {
@@ -1348,7 +1373,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-145.studio.webp",
       "alt": "Kırmızı Kurdeleli Orkide — Yade Flowers gerçek ürün fotoğrafı",
       "category": "potted",
-      "price": 300000, "originalPrice": 400000,
+      "price": 300000,
+      "originalPrice": 400000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QNWReF0xqWzkUKbRsPrPp3EGMUAScIHmig_JQA8pVLWO-PoDaPdKjB8QmZ39yGL0gG8Mz2dNmHHdM-sY7i7SMk4n1YGfnfyVE2RkCM4khne50omP4Afm0gPhOtV02zOVylJIVBbw=s1600"
     },
     {
@@ -1358,7 +1384,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-146.webp",
       "alt": "Pembe Beyaz Tek Katlı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TFJ_yICm-ISY84e2YWHfpFKseZyXxt4MxV1GEFVPINb5pvW8bbp-QMRTtx4WoaVpjAkfx4nGDjPB8IK7bARhgAq5I-l670jSq5zdGnSDrBupI0cjGotymP15q0wDU6ZRC2JB55=s1600"
     },
     {
@@ -1368,7 +1395,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-147.webp",
       "alt": "Kırmızı Beyaz Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TaVJpkeHpozYYaMUHRH2IBfrVOKpOGtDf754ZcuS0rDXXEuMJBgK6KWvMSFiJXkrWpImUzw_ilJmD6BRl9B6zIjmxcbiDEiH3HKPhx9GgmR3N1JfKarq4oJvcBNziWaX371O8=s1600"
     },
     {
@@ -1378,7 +1406,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-148.studio.webp",
       "alt": "Pembe Ambalajlı Gül ve Mevsim Çiçekleri — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RiMf7dVcDZbcAXVOQeEETRNbxCxC453ffn6RcfYwM-ojrDm1SflS-P4F5MgHU-YkCjE0-MUjpmjv9Aw4QxaD446QcgPVerOCXdpDlywDxiL8xla9kuMOBVOBfxqYfCquDbM-I=s1600"
     },
     {
@@ -1388,7 +1417,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-152.studio.webp",
       "alt": "Siyah Ambalajlı Kırmızı Beyaz Lilyum Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R_Ya3-7cMEgJt9WJFCFgxGYlW_ZPvAISGYTwBrRWaGMoVcb9Uwuyl1jcpkENvPlZkW02g69ZnAuZRAn2F6F9XhldRhiPKHyfAYRvCTPSSBNpYvg2bhq2DJhh7DAkhq6w3lXTGW_Q=s1600"
     },
     {
@@ -1398,7 +1428,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-154.studio.webp",
       "alt": "Turuncu Ambalajlı Kırmızı Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SgFYoSLqN3eYu4ze4HHDIKC5jirfRgFYxMo1bFCEOCvBGcxfLSH7iXFxlEahJSy8-RjRUNq7d_sWYgdUqhS3lTHHtQTVLrx4vYegPif3QGInnrsYcu0espwBWDdgGtieevtGXkHQ=s1600"
     },
     {
@@ -1408,7 +1439,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-155.studio.webp",
       "alt": "Doğal Pembe Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TPttynscW08MGRdktWWh-RP8eZtA5IJOin--7lMXK6mUqseYxhqwcK2T8Q9WIV7RfxxT1IFOieW1TXu7DZVNynOc-M5o2ScqVaruWU_FmAP8sbJUfKnHvh1hchWtvQIDZn_x5b=s1600"
     },
     {
@@ -1418,7 +1450,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-157.studio.webp",
       "alt": "Hasırda Pembe Gül ve Kasımpatı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qq-EPrbHQe1DvTF0WaLZWKOD2k7o7Iq5NEcnuht-ch8kQFDWi14BiGTqA-l3-AudhcALU1tEIsGtQO9WvsrSVSzEIsow8G1EzrMG_2aG1ujwqrH4et3tDeYNYKyXVTZShg1aoW=s1600"
     },
     {
@@ -1428,7 +1461,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-159.studio.webp",
       "alt": "Kutuda Kırmızı Beyaz Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "arrangement",
-      "price": 400000, "originalPrice": 500000,
+      "price": 400000,
+      "originalPrice": 500000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q5dH8XnrlQOSZEqeBgCCpFTSk06HB_lE7jH1CDzlB4PIkdf3HlfPaiRDaAXMudolv8x5YtyyzfPpj1qM2Yk_evWFJB1lzbQsbCC2-DyMRchfG-ofE_pjHjA532BFvo6VN5f554=s1600"
     },
     {
@@ -1438,7 +1472,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-160.studio.webp",
       "alt": "Kutuda Lila Beyaz Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "arrangement",
-      "price": 400000, "originalPrice": 500000,
+      "price": 400000,
+      "originalPrice": 500000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R7ZHgCIGHkeyW4kc_OxWbsBnUbHm3MY6k1j-X_o71l7FtTnZjJZTgDbOOWPdCMc_7yUsmJWpXTId1XrEloxvwctkWbj3nCvnMkg9GWtgtSmaZNurfqRAoxoW3N4HMtGpcM_A=s1600"
     },
     {
@@ -1448,7 +1483,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-161.studio.webp",
       "alt": "Turuncu Kurdeleli Renkli Buket — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TXaDF-WAOb4b2J36hH6_7oE0Bsva0_EnH4vXPDd1TDVjoGnXqVgbbV1pLrT-uHy_v0W4XEAJ3CaUTUmhjJzJtI-RZSMERtTZL0drsse2UtaCVfeoq4fuyAFifRqcgsjSRFUXA=s1600"
     },
     {
@@ -1458,27 +1494,30 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-162.webp",
       "alt": "Sarı Turuncu Beyaz Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TBzo-5ER8a9v7tXFLHNnD0SDmLyXa5YveGgqtjlpqgQrpbQTlzp8rpILRH8FMhDjE0h_0eAcpx6lshhw4ANoPDivtI8kPCj2ZFOCjKMTB3G7j5M4woORinjXfud1WkSy317tqq=s1600"
     },
     {
       "id": "YD-148",
       "name": "Tüllü Beyaz Gül ve Cipso Buketi",
-      "image": "assets/bouquets/yade-safari-164.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-164.studio.webp",
+      "image": "assets/bouquets/yade-safari-164.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-164.webp",
       "alt": "Tüllü Beyaz Gül ve Cipso Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TVirflWzDOcyj2Nvqe0x3ImmdnsBpJ9cQ1mWTG3hBVUdwQ1w2RZnacGB3H7xsylaK9Tgm9Ev4_g3tmPoSJLDlT5bZa0I8UtOf6vtrj_3YQDj7k2rutCunXMWyjdJQeiisicB5R=s1600"
     },
     {
       "id": "YD-149",
       "name": "Pastel Renkli İki Katlı Çelenk",
-      "image": "assets/bouquets/yade-safari-168.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-168.studio.webp",
+      "image": "assets/bouquets/yade-safari-168.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-168.webp",
       "alt": "Pastel Renkli İki Katlı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T409vtpiL_hch15KaKHlrXFGUE6bsv8vfli_EuUXFmMSjk8HgJo9_7PxX4SeVxCkdEbpBXtbt7BvpNf0W1oBBkIIQDvM5kvTJm6FW_yQH14VjAhUE9QEg9ygqOkKqtFoOFYDs=s1600"
     },
     {
@@ -1488,7 +1527,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-169.studio.webp",
       "alt": "Pembe Gerbera Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RKE2DVHJhupqhst9_hc-qHPBJLQEj_t8w6_5e3hEdHcx4WV-HYWzHZf6sFrNvTDS661nZRWyeMD-49ygc5KMfdPwlLoir22Qs1mZQGr2c9_OwBE5FgJrvEsbvbOPelAMJzx42x=s1600"
     },
     {
@@ -1498,7 +1538,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-170.studio.webp",
       "alt": "Sarı Ambalajlı Beyaz Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SYd-5lSBzRXC91mMDuS3NgMiP2na1BSjK9bCXZHfymuEgBniYa8dbxF502GUgZ6Q9-t1f7X8feJfcfxHYUCBZi9NaOLflB6UOXftxzD2JTTUHgxGUYC1KmwWLb7stqinUbQR8WgCTMMdSW=s1600"
     },
     {
@@ -1508,7 +1549,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-171.studio.webp",
       "alt": "Hasırda Beyaz Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qp6uDlm0Nf083mPVovJoh0XpuKkmC94LDMKaxTw1JUfHeyRfFhUSRKF3FzUvtNSk7EuMXT-T2eZY65m4odJBv1GVgNZoIGsSdy-qHPfEQy12jrRxCxurSRw0QteakfnmVwz3zJfQ=s1600"
     },
     {
@@ -1518,7 +1560,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-173.studio.webp",
       "alt": "Beyaz Ambalajlı Krem Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S3T_3ITXzONOz4XFQBNZM18bIVAiCHvYHvx9__cOjvB_MZBtCr6PYK68TyAg0Zdj6JPp2ahL2feZUeSiuApbwpNTsp1OG2ZJuPn6Ra254MjVjHbJmN1xdPb2FCC_LyuCmodsZ-BA=s1600"
     },
     {
@@ -1528,17 +1571,19 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-175.studio.webp",
       "alt": "Siyah Kutuda Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "arrangement",
-      "price": 400000, "originalPrice": 500000,
+      "price": 400000,
+      "originalPrice": 500000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QNoc9ZhRYtReQ8ngVpqjoYUO8p3w1bDiOXLG5a5Zud2fBnh9dJVYe1N5LjVmJH8-FwtuaEayZiWnA09FMIjSt26iPaQczVTowC9au5_S5bOIj-NRAx7OD3iUU7-HvD31GV4KKJ=s1600"
     },
     {
       "id": "YD-155",
       "name": "Pembe Ambalajlı Büyük Kırmızı Gül Buketi",
-      "image": "assets/bouquets/yade-safari-176.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-176.studio.webp",
+      "image": "assets/bouquets/yade-safari-176.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-176.webp",
       "alt": "Pembe Ambalajlı Büyük Kırmızı Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SZRBKUx0bAG0VO0luZ42yeAbsQkeklZ0VN04Vll_YJQjLXa8_q33ItjULHDpNAFtxUCwEC1oBN5mz9Z9RHN6BR97F-kqKXGVP5sdXAuzjOSlkg4BmR1l330nLDzo2CQSkKqGFoHg=s1600"
     },
     {
@@ -1548,7 +1593,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-177.studio.webp",
       "alt": "Beyaz Kasımpatı ve Mor Çiçekler — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RXm6AYtczWwX1LUMgpkO019ifpE6xB_Y55MN61T4oE_9aX5IyYTBdrcMvFSVk9zC_Oj9Ro5pzj9if-E0fHy2iRVY0A9dLh_F8yPfdStQJOjHN2SxonnUAcah42uGMuj-SiGXITtQ=s1600"
     },
     {
@@ -1558,7 +1604,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-178.studio.webp",
       "alt": "Cipso ve Kuru Çiçek Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SFt0wCByYJyU3Cf43jrK1AzcK-PV1C6wZsbpGzVhzXbhToGTXXQSpBPyNfsb5MgeRtcId-QFrG4IAgxmwdDL-8TmTXRp9naehQ0W3ooENXyYupLKs3wi9gZ2g2J3Ew0Yio9Jtc=s1600"
     },
     {
@@ -1568,7 +1615,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-180.studio.webp",
       "alt": "Kraftta Kırmızı Gül ve Cipso — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SiSM0kJRcCmA-JH2DpcQU42kwPS62W93eOM4oYe-k730ctdK3JPcOMKBVuivcnmqhUYZC9NQfRAcNvqDVBG19SNMj1iGkS4PI38Rb5CHtFN4uFt38BT6RnLK5zQ7nUyDwqpK03JA=s1600"
     },
     {
@@ -1578,7 +1626,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-181.studio.webp",
       "alt": "Mavi Ambalajlı Pembe Lila Buket — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RnwB3ptIjL_GMJPu89w5ykNzSotNFW-x1EKr9I9Hahx0UENFtljiP6OZfkYxUCluxX8tUO4OjkDajy_X6K9ofT2GYH5QcssVoRpeNuJ76UPfOHy07xZCRL902k0Go1C6n8iOZH=s1600"
     },
     {
@@ -1588,7 +1637,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-182.webp",
       "alt": "Turuncu Beyaz Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000, "originalPrice": 650000,
+      "price": 500000,
+      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SDia6wxIc11XGhTz2a6R1ovZid0dZngkEFhcr9IXkGsD1s4SXet06Uvv6csP1x8r7wIpEpX-pJQ_pdOqfb2ozQLDd9xxXSjsB3_RTe9jvwn6SR7mFjqKsA7WtQRQCjw5ge_pl1=s1600"
     },
     {
@@ -1598,7 +1648,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-183.studio.webp",
       "alt": "Kırmızı Beyaz Gül Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "arrangement",
-      "price": 400000, "originalPrice": 500000,
+      "price": 400000,
+      "originalPrice": 500000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R2_293RLVXGHyIhHTO-XTyqy-GkfyUNkRsBf_yiKvYKbSAoZtdtPE62cMfun1Pz6iAVKKSEzYC0cHW5NuxwRFY-lmPSO0N_9wt3SQYDHAwMD69Cg_YFIto90ymdj5JnCCWbeuT=s1600"
     },
     {
@@ -1608,7 +1659,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-184.studio.webp",
       "alt": "Pembe Tüllü Çiçek Hediyesi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "arrangement",
-      "price": 400000, "originalPrice": 500000,
+      "price": 400000,
+      "originalPrice": 500000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SJAyewHCDp1x6QyiGdZgxlwil1DU9LFmXk7JMBRz3fI9ReTQHysMwjgRreQoD8NHsCeGfNrDZsFu38g0zk3ViZCCHu4vNHIqhjyII3X4X_JmjH0Z1rO7KEjUZ70mK4LsINmGflOYD7lZE=s1600"
     },
     {
@@ -1618,17 +1670,19 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-185.studio.webp",
       "alt": "Tören Kurdeleli Saksı Bitkisi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "potted",
-      "price": 300000, "originalPrice": 400000,
+      "price": 300000,
+      "originalPrice": 400000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RkrBrj37TZWv9863ylXoGLX18TUleBdtnApiQWcitAmglgEphWBM0bmUcpiZ878nYGfQGxppSOCqmqgk893Qk-k4ySaCI-SsYNeKPVPRIhkAYJJBEo-q6DOwFSOEwTKAZBn4QCVw=s1600"
     },
     {
       "id": "YD-164",
       "name": "Kırmızı Gül ve Yeşil Yaprak Buketi",
-      "image": "assets/bouquets/yade-safari-186.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-186.studio.webp",
+      "image": "assets/bouquets/yade-safari-186.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-186.webp",
       "alt": "Kırmızı Gül ve Yeşil Yaprak Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TKbjnT2h_VuHBaJZhT2H310EwN_Z4bebTCEB3PyDy_J1UGify_OveeYQ4j3Ht-ctQbF4D3V6_h_Ib9rkNnMR9vyimPi0gqOfyS36-GWvYDmv1AlxfIKcdZXrLBLS_6zB2XMqAi=s1600"
     },
     {
@@ -1638,7 +1692,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-188.studio.webp",
       "alt": "Beyaz Tüllü Gelin Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TTrNyyMnmHGphCTUW9-ztnIaGr8x27J9e9RPTHjkiQ3bZI4XcapECtraQfpPe4F3hQZe10LJKqQ-Nk-UDOsESuYf0qelH37eM-VKZe9i7gdp-Djj9Tc7KwlXDS8hfE6R0pytEB=s1600"
     },
     {
@@ -1648,37 +1703,41 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-191.studio.webp",
       "alt": "Desenli Ambalajlı Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TWmyyJxt4AfdkTlxKFrM79OX6VDpYrWuYkr2lqVNjpe0m-ULjkzmNgg8bypBbCVpLnT1sv6UBL-ebS1voZ9j_NQr5exsFdZ1RuUhoQ1Q7mDUNEsmUp2mvuvLDH3w_yuLRqIZgY=s1600"
     },
     {
       "id": "YD-167",
       "name": "Kraftta Fuşya Güller",
-      "image": "assets/bouquets/yade-safari-192.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-192.studio.webp",
+      "image": "assets/bouquets/yade-safari-192.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-192.webp",
       "alt": "Kraftta Fuşya Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QyhE5jTczBiF1EH5FZ6bhnfJqtU0eMrDJvV9V1A0U5KaW6JaUY2zL8LONBi1sGAw1m0MxP0X87uf-Zqqz4AR_kIoY6U4A42pN2Rtf7CCtqY4BZ1X6TagbzQ5BBS4t5dSAkZ9SKuQ=s1600"
     },
     {
       "id": "YD-168",
       "name": "Pembe Lale Buketi",
-      "image": "assets/bouquets/yade-safari-193.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-193.studio.webp",
+      "image": "assets/bouquets/yade-safari-193.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-193.webp",
       "alt": "Pembe Lale Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TZacy5_haCAv-OwJMmazLV7FO_afluo916_W2H9vSjsHA5Wq14OGK77g5t3052lalJCGzy7-hVDyrWt8R2kH8oibIG-NSB1W84WgxgfqNn8zw3DoHplQbBQ8xwLFgcOEgmufMGJw=s1600"
     },
     {
       "id": "YD-169",
       "name": "Kırmızı Sarı Gül Buketi",
-      "image": "assets/bouquets/yade-safari-194.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-194.studio.webp",
+      "image": "assets/bouquets/yade-safari-194.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-194.webp",
       "alt": "Kırmızı Sarı Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Sfz7nyW0LICJm3HjuC7gjq2kcuq8cfw3GbKMi1IFQBBXP3G1bI3oeZ8KkyFVeJ6P2AhQjV3G6ikWKqibLqY69oUO3lHlETO22CXIfYr7Ru-3lhkSEL9MoLEYj-438uqK_53bCy=s1600"
     },
     {
@@ -1688,7 +1747,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-195.studio.webp",
       "alt": "Sarı Kurdeleli Kırmızı Beyaz Buket — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q4b4-B_4v1suDNJsS0gh8qFIpzj8qhTp0kKiSWYNkWDgIqed9fTynv_oOW0GDvsFawbomnoJ7Zz8FFQdOVcIspDuYuaB7bL7yvSUxVDVVNQcU6l7NO6XSMZ74W-Ui_XGFrGBvp=s1600"
     },
     {
@@ -1698,7 +1758,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-197.studio.webp",
       "alt": "Beyaz Gül ve Cipso Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TSSaYA2cOv8_rUwS9541SWPIGr5PB-Kf0akZqP0W0hMU94VQ-c7jlmkOy3nbVRIK3hlwbbBnL411mM7DD4lLfEjlH1Vjl6V1tNGyzA1VDU-xt9CYCqDCUJXnHBArFx4DxaVGBdiQ=s1600"
     },
     {
@@ -1708,7 +1769,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-198.studio.webp",
       "alt": "Kırmızı Beyaz Kalp Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QlTeoCLRfJsWzyCgr2HeUbiWqoxHMzq50yS-_9VhDPekH5H_x1oQt5C-pCriEFxQ60OXwHoKsCLiTcQ2W2i-hv6wZHjGF3HxQUsq5BhLcHlODG1hulWZ3zppYK1qJc4nKkaDcZNA=s1600"
     },
     {
@@ -1718,7 +1780,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-201.studio.webp",
       "alt": "Sarı Ambalajlı Kırmızı Beyaz Mevsim Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QknSGm_CQiC500T6QG5Jj35v3q5NQx-raz8IgYr5F_W-p6doJ76A_PoYWfmuJ3o6ZMwgUOLKzvjxH4BQLGcVgMMlzGh1jHm4-3pBcPDx4yL2MLMgxg2MhBPWRKcFn5kpGWTPA3f3UgOGJM=s1600"
     },
     {
@@ -1728,17 +1791,19 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-203.studio.webp",
       "alt": "Siyah Beyaz Ambalajlı Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RyMe8EHX_j4aVBFvyA7WNTtK67mJNIuODukAhz9bJDMp7t8FhpRfBZ3zTv8SA0fosn7Ya-fuKXrk4dDqzoODOWVKvF5qdYwGMQGZXGQqGjBl6HTEcCcP_gI1CQMS2Y79S_-ZJM=s1600"
     },
     {
       "id": "YD-175",
       "name": "Hasırda Krem Gül Buketi",
-      "image": "assets/bouquets/yade-safari-204.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-204.studio.webp",
+      "image": "assets/bouquets/yade-safari-204.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-204.webp",
       "alt": "Hasırda Krem Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T7WwMiPTn9Uh8I-3ht8wdl7z5pbjX7MTe-WKyD6S1m-TiWY3-e0ekXdPDO1cEiCanGzeWgb4eoG2KZLCLsXpAUyZFjsrHD1SNuFt7aR7lbq-NuATQgHYA3mPS8c4cCfqnAG9XH=s1600"
     },
     {
@@ -1748,17 +1813,19 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-205.studio.webp",
       "alt": "Turuncu Ambalajlı Orkide — Yade Flowers gerçek ürün fotoğrafı",
       "category": "potted",
-      "price": 300000, "originalPrice": 400000,
+      "price": 300000,
+      "originalPrice": 400000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QogmtK4HUl68GI2eAin6zQQcIkm0bXrI53Xhe1OjhfCtivdU1EMTcfpHqk2xLYNAmYA0Lr7-kxM99HOyIfSXzqiJn-Ss8K_60OdpjUinH8_GTjuQJ4n2tLVxFOht7fpsUYUHFwkQ=s1600"
     },
     {
       "id": "YD-177",
       "name": "Paketli Gül Hediye Buketi",
-      "image": "assets/bouquets/yade-safari-210.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-210.studio.webp",
+      "image": "assets/bouquets/yade-safari-210.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-210.webp",
       "alt": "Paketli Gül Hediye Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RnRaqrxMvYbp1cGCjlsW3VhJRpHV78jIuGj7oThe0X5lIewa0OMwmGUY4Nw5T_a6ODg7Hxrt2cH1oIPkPL2fSyeuCDXVCJrcy6eOg8N1-dIez4m9IEvgwLRBGl0LhCpvaKf3sscA=s1600"
     },
     {
@@ -1768,7 +1835,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-211.studio.webp",
       "alt": "Krem Ambalajlı Beyaz Lilyum — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TJ0kllmFQR_CKCXk0j2faLJcmDTP7ZZaXoTPA8LAUa5vbTgiurVkCHhKXmcP4N4HAGXe0G2A-h4C-TYZTstJNSpkdnheQZm2xLIfNeHOqlntHn0NNfulVc1EpiUOzpxdX76lhp=s1600"
     },
     {
@@ -1778,7 +1846,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-212.studio.webp",
       "alt": "Beyaz Ambalajlı Lilyum Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RiHyuJ9lf90xy3feWG2Pea6JNJ8lqgQaoFI1oDvqOAz57l9Mteh9n1wlk4rTHw_-uwHMY_HCjewr8p-EdgRc2uxgJvXacPL8JYCHJwbAGQ15XfDGpKJwpyUT9Zzdu07rsXO6Y=s1600"
     },
     {
@@ -1788,7 +1857,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-213.studio.webp",
       "alt": "Desenli Ambalajlı Beyaz Buket — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SDfUoH3gzNbqMY40F7yTqO0iJpOHNthu_wNdn9HZ4nwlKaRQLI2O09ZAKTqkd0brIuOIvl2NxqFm4a4JUkMQ0KhuQkl--EmNN-fXIYMO5GAhx0AH-ZuwjoaCzb1AsTErQAxgOYcg=s1600"
     },
     {
@@ -1798,7 +1868,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-214.studio.webp",
       "alt": "Kraftta Şeftali Beyaz Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SdSuz3cptZlbFQj-TKpBfQytNtCkzg4xL_n8217aEhlBLuxExE-I7Qck3w4j3FU38352nRMB5Hx_vpZEKzbiUQz6hdQZ8vEBXbM5eh7hM3XBpsw6-SVa0AVAkfJJtWqShkrRSc=s1600"
     },
     {
@@ -1808,7 +1879,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-215.studio.webp",
       "alt": "Yeşil Ambalajlı Pembe Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q-7ZavjCCUQYpToFlOLEyqaJRF91BpUn-TUa1y4Y9L9Y1uKja_xiHW5ZOoO_9q0ltUv8cRwufnP7kyrTmX3tgIWDixXEDIIx84qny599_DgYh9zUZSbsoUEGG_2qm8fg2AYNGpDQ=s1600"
     },
     {
@@ -1818,7 +1890,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-216.studio.webp",
       "alt": "Ekose Ambalajlı Krem Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9THbf_14n8eU2_bxqxJTPEfxUk0REXK-jMdt11M8-8JbgEh-1CCdB0AgKSFaQBWoM1z8nuAfWSibnVV076tyTfK_pZvDYEA4X7n9Uh2a7MMTL3p4_s0lne8OB2CF-ruu9CVLjvh=s1600"
     },
     {
@@ -1828,17 +1901,19 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-217.studio.webp",
       "alt": "Kare Desenli Pembe Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TlMz1Ulto6zYa6HaFQM3cpexsQweHu61-LekV2_vJlwmdg7nOLf5v0An7rN5y2OUcg7ZqRwGbotCPfmUdPVVTvFcdzcCEBw26aYnQGS8tvalH1YAgPXWGMTnNQ3jfUFX-nB2LQ=s1600"
     },
     {
       "id": "YD-185",
       "name": "Kırmızı Ambalajlı Gül ve Cipso",
-      "image": "assets/bouquets/yade-safari-218.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-218.studio.webp",
+      "image": "assets/bouquets/yade-safari-218.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-218.webp",
       "alt": "Kırmızı Ambalajlı Gül ve Cipso — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TFow9kKphjn-eCUDgjykWqt4s_bv2BcpIKNZL4fwQbsVP9pW3e9yRGvyljQOVbEm9L-AxvoP5ngr8FMhXTZzvP5JJiAM0q1aUmlB6faCrJZi7Qhr_yc0-2vFnwW6he22TOH4My=s1600"
     },
     {
@@ -1848,17 +1923,19 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-219.studio.webp",
       "alt": "Kırmızı Kurdeleli Pembe Gerberalar — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QdMi156Hjjj7xaIOgOrr3Kc1TWdSKgJwS2AxHXwwREIADNuWsqryVHHbvyG2FIn7quOZ8XHix8YGiSS01PlpuuniB9cARwxXS7yiB2TwSL8DHl1NgjnljtHMXPtzgvz4p5ujzK=s1600"
     },
     {
       "id": "YD-187",
       "name": "Sarı Kurdeleli Lilyum Buketi",
-      "image": "assets/bouquets/yade-safari-220.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-220.studio.webp",
+      "image": "assets/bouquets/yade-safari-220.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-220.webp",
       "alt": "Sarı Kurdeleli Lilyum Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q1AT_XChKLVtibRXQfO4WhSwwbjBhOyD0TNk1t9LTuAMiHquDdStOY5-x07verifwy1btXIqyHOeowapIQrjQtG536huoHNRGr3j8AkpqyGB7PjMPdl-CR1GoPO07VCr4xR1Sz=s1600"
     },
     {
@@ -1868,7 +1945,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-222.studio.webp",
       "alt": "Siyah Ambalajlı Gül ve Beyaz Cipso — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TwS3hfj4rvZgRqPH8R4RWMO55Rtm7rjjnZgnO-JsogkuRTO1SzewPAyoH4uZCZTNiJmMZDeeEm8PWyoVfOmVT16XBoezIevHmPFhdVgkFM44fi6CsBFj172j1miejzXznyzfMS=s1600"
     },
     {
@@ -1878,7 +1956,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-225.studio.webp",
       "alt": "Beyaz Kurdeleli Krem Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QSxRXHWyCFoCyzjPKA3CnF-JteGQ7HL6y_ChdtmybbTEfqSEEtWWu8nBHCaxvD1cuXdjmQ6K-PVoDPgba1hGpEZOBlIBK6Y75BoTId906WZXqr4JoR04H0QLtFT4lvUfhIucm6Jw=s1600"
     },
     {
@@ -1888,47 +1967,52 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-227.studio.webp",
       "alt": "Kraft ve Hasırda Pembe Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TV5jtRSYA3XqPYDogEk9V35Yp8lw-anNdbI4tCnJRO0KwBnvmG16EEZcSuufroQ5-pTHXuFm0SCEXKW41gRH1kJKTmiSY-BIOjNjuKxMByEBfyj0Jy9Ae5-msZt49RcQImjY6I=s1600"
     },
     {
       "id": "YD-191",
       "name": "Mor Sarı Şebboy Buketi",
-      "image": "assets/bouquets/yade-safari-228.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-228.studio.webp",
+      "image": "assets/bouquets/yade-safari-228.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-228.webp",
       "alt": "Mor Sarı Şebboy Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SfnXlYAGk9C6nwxhquXQQOB3_8vawWr0OY34jOKcpwpAKlkCBi4BAscE7cgROTvjGdnq_lJ7J49OxIVqdkVvQ8jLrejdyKsEf76lP_hPQ4T5T9h33PpPU-6cPvm-0so_xWUZQ5=s1600"
     },
     {
       "id": "YD-192",
       "name": "Fuşya Sarı Mevsim Buketi",
-      "image": "assets/bouquets/yade-safari-229.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-229.studio.webp",
+      "image": "assets/bouquets/yade-safari-229.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-229.webp",
       "alt": "Fuşya Sarı Mevsim Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QTb1AcPx0S09PmGEgeEbTB4gHqsvjaWrfML3Og7-zeCN6IkFmvOR7QyBJ5xhLVwXdeavUNIdxiGm_s952wpEsJOetNOCXew0UVrqmsryXidQy0joPeCpTuF7_lqIpbzBS-TeQI=s1600"
     },
     {
       "id": "YD-193",
       "name": "Kırmızı Ambalajlı Renkli Çiçekler",
-      "image": "assets/bouquets/yade-safari-230.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-230.studio.webp",
+      "image": "assets/bouquets/yade-safari-230.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-230.webp",
       "alt": "Kırmızı Ambalajlı Renkli Çiçekler — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RdKx3o5mJG9K2UvuAFTY3C-cUkKfTub-mTWrHyoubZrynRuaIBZ-4Pe2SYJllu40R8H46z7LgIO_4l1XPx-Z7ApWY2zjFSHw4OWLbVsPDvj_cKvhhzs38-rjNrxfY7-yTXt75A=s1600"
     },
     {
       "id": "YD-194",
       "name": "Kraftta Pembe Beyaz Kasımpatı",
-      "image": "assets/bouquets/yade-safari-231.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-231.studio.webp",
+      "image": "assets/bouquets/yade-safari-231.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-231.webp",
       "alt": "Kraftta Pembe Beyaz Kasımpatı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QyQcB9itzxOCMctZI2rALovwV7nVMzGpOBP2B79F3dBTDjUayB-g_dJ6lmjw5um6-ASyWYhzaMuADg3HC8_VeTwbNttC69QER_N9G4tcF8Zx9RitbAtV1dPPheAaWSjbvUiF-D=s1600"
     },
     {
@@ -1938,7 +2022,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-232.studio.webp",
       "alt": "Mavi Ambalajlı Fuşya Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SZL7Dsib2j7E_vWqv1Q7kCG6u6yhLSKp_7T_Avm5ZGzt2V7uw_HmtKtps2C9D-NljqNNQR_A0PmG7JlFKgZtCuRlRyU8PLhkGv9gLgwexlRtqHMpLfUen9ow1pDzW0UiUdBYPDiA=s1600"
     },
     {
@@ -1948,7 +2033,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-233.studio.webp",
       "alt": "Bordo Ambalajlı Kırmızı Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T5mF5grsbqKGKO-oA79R07ivLpY9DUdyEtgQescImOku92oGUUF9u0j3R8hpKkWrCkowpoif7X7Vrjejr_BJhu8ErSPR8mycIE9oNJh8MuKWVbU52DCbGDQfi0AkYZ6d_kfllc=s1600"
     },
     {
@@ -1958,7 +2044,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-234.studio.webp",
       "alt": "Altın Ambalajlı Kırmızı Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Rknk7iI8VxEFwFrRyF3EXid8nzYHCVvNpzTgp1QiuYqLKI26Q8Ds0RG-Io7IXkUgKnSoA-9n74_AfzWLwQpisth-jO0uxzjMUommjHKALBGrkk9bg8wEL9uE2uxKquHJijs-XX=s1600"
     },
     {
@@ -1968,7 +2055,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-235.studio.webp",
       "alt": "Turuncu Kurdeleli Beyaz Kırmızı Buket — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QblADt4cB_G8NAaG5tclk6dAUYVUFvodfmc_-NBnmvxxHalL0FYzKxqM7ccpJ84sI9M9RyJkk2svRzpqI4vfDdI6z16RFyBNc7IuC16g2PdvuADy4qB35kCF4rI3iF6zGUenka3OCLyHOR=s1600"
     },
     {
@@ -1978,17 +2066,19 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-236.studio.webp",
       "alt": "Sarı Beyaz Pembe Mevsim Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SREZe7EMyRh9jSEE-mh_lrZ62nGJ6xG8k1dt8Xop3rXa7X8FHTA_cMjwe0Aiv96OXwR8eQY245XTcxtFt9bSMqz006Em6gOLbQKXaD0F02VzPkEWdUVbpwgDoQ8yRj9yXB-APk=s1600"
     },
     {
       "id": "YD-200",
       "name": "Kırmızı Ambalajlı Beyaz Kasımpatı",
-      "image": "assets/bouquets/yade-safari-237.studio.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-237.studio.webp",
+      "image": "assets/bouquets/yade-safari-237.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-237.webp",
       "alt": "Kırmızı Ambalajlı Beyaz Kasımpatı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R8-eWRWoW1B7iB2QmYe8GdGExbiZgLG4X66meteKb-CnyKIfryK1Y-qzPBkIb-DxAgBH1_LETJSjfj-NskKd8Hux7oNBNiQ7HEyOFRzQhsxzTc3haOoLEKi8cfskAxjkkTiJx9=s1600"
     },
     {
@@ -1998,7 +2088,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-238.studio.webp",
       "alt": "Siyah Beyaz Ambalajlı Lilyum Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qkrp_vVNwCbKVFpRxMCzYtO1x2u4IWkUInN0G1PgvIFpCC-apHTTBvm7uW4z_Y29-8m35yX5L-9OmtbfeLddj8NtoXA4xiYmrZ7OO7w90y1eY-tIOsGdRVS6wbCVELlWYT3cg6=s1600"
     },
     {
@@ -2008,7 +2099,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-239.studio.webp",
       "alt": "Pembe Beyaz Gerbera Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RpZx0avGT5A0TX-eio5scDqcfuXVNwtIsj1BjOuLHCgM83td585wo75_m9Tqh-nxTQ0SUvIXiFd95IVF5TEp-stZhwcd5XQb1IlRpIZz7JhjaDlVCxAe97n4VTFu5eYGuim-U=s1600"
     },
     {
@@ -2018,7 +2110,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-242.studio.webp",
       "alt": "Siyah Sarı Ambalajlı Kırmızı Güller — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RZYMY3xGZBu-sdxkmP4ihaHOPjjd83ROrEajT5-kLWjhaROy_5HoLwxfLapkdsww997EH4oBNuPSsRKNXWnrULN5oz5suIZ_Xx1DenYLQlwUZp6C9M9F-VK7zpKOGGVimHLUiV=s1600"
     },
     {
@@ -2028,7 +2121,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-243.studio.webp",
       "alt": "Kraft Ambalajlı Küçük Gül Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SlKlQsc_mCYLZYgaLp1aSZRvS6rKSK2t8V-oOJjqT-EL4YMXUw-USbuiEXwJKL_d2WudawFHDiWlHYkWLOw3HJWi8Y9EUk9uhbBafoMSWm9SL9vvv36iqCbVDoGoiJP9Fs3uWqRg=s1600"
     },
     {
@@ -2038,7 +2132,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-244.studio.webp",
       "alt": "Pembe Ambalajlı Gerbera Buketi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q8LFhk3I1JTNc5sDV4RDKq_21Q5sHPRhHvwZI3hrhFT9jSqQ1pxZD6T3HUIb54i61IRQMOAL-OzH16dRKu3f7_Fuh4HAyQtIsb895MG7uVIkkbHfs7sUaSE43g3qZnas_-pBYE=s1600"
     },
     {
@@ -2048,7 +2143,8 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-245.studio.webp",
       "alt": "Kraft Ambalajlı Pastel Buket — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
-      "price": 350000, "originalPrice": 450000,
+      "price": 350000,
+      "originalPrice": 450000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QUik36qKXNLtJpFGgxnwhEL5Mu5v-fmtGrPV2cQF6-N7VHppxkWwHL5O4OeF5dh8oAlnaA7dH0fjGATyG2YdxNC2-IX3ISfhgLCUX2Iav3-KqHs28TVav90BZ2WFi0gCpyDRVVAA57wIb3=s1600"
     }
   ],
