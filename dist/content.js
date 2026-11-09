@@ -214,9 +214,7 @@ window.FLOWER_CONTENT = {
       "image": "assets/bouquets/yade-22.thumb.webp",
       "fullImage": "assets/bouquets/yade-22.webp",
       "alt": "Yeşil yaprak çerçeveli, beyaz harflerle yazılı kırmızı dikdörtgen çelenk",
-      "category": "wreath",
-      "price": 450000,
-      "originalPrice": 562500
+      "category": "wreath"
     },
     {
       "id": "YD-23",
@@ -287,9 +285,7 @@ window.FLOWER_CONTENT = {
       "image": "assets/bouquets/yade-30.thumb.webp",
       "fullImage": "assets/bouquets/yade-30.webp",
       "alt": "Kırmızı Beyaz Çift Katlı Çelenk — gerçek ürün fotoğrafı",
-      "category": "wreath",
-      "price": 500000,
-      "originalPrice": 625000
+      "category": "wreath"
     },
     {
       "id": "YD-31",
@@ -438,9 +434,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-46.webp",
       "alt": "Turuncu Üç Katlı Çelenk — Yade Google fotoğraf galerisinden",
       "category": "wreath",
-      "price": 650000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q8VIy-oRI8gZ24Ss9kpi6OZt4HN7n8H3DXmfMb4WUmsSvykMdJJxduCq7Rp5ZWKMyonVWk66GPCU2eYwvFZKzZcx447pPyR73q62hnfWzozCYzzyfIbklbVv0NBsUZ3P8e7GvD=w390-h650-n-k-no",
-      "originalPrice": 812500
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Q8VIy-oRI8gZ24Ss9kpi6OZt4HN7n8H3DXmfMb4WUmsSvykMdJJxduCq7Rp5ZWKMyonVWk66GPCU2eYwvFZKzZcx447pPyR73q62hnfWzozCYzzyfIbklbVv0NBsUZ3P8e7GvD=w390-h650-n-k-no"
     },
     {
       "id": "YD-47",
@@ -449,9 +443,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-47.webp",
       "alt": "Turuncu Sarı Çift Katlı Çelenk — Yade Google fotoğraf galerisinden",
       "category": "wreath",
-      "price": 500000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R2bZA0dVVh4iRoah_Z5M4vogjNafHiHxB3p5aHh0HDCGJTNxF4wA93L8VaPsjiTqpdAaLP3nno_MmrMac5Mo9rgHzXfXXT9vUJ13mGe6XO7jCbCOx7TxwKLRXD_NssN_9Pkz18qZNC4ug=w390-h650-n-k-no",
-      "originalPrice": 625000
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R2bZA0dVVh4iRoah_Z5M4vogjNafHiHxB3p5aHh0HDCGJTNxF4wA93L8VaPsjiTqpdAaLP3nno_MmrMac5Mo9rgHzXfXXT9vUJ13mGe6XO7jCbCOx7TxwKLRXD_NssN_9Pkz18qZNC4ug=w390-h650-n-k-no"
     },
     {
       "id": "YD-48",
@@ -504,9 +496,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-012.webp",
       "alt": "Kırmızı Beyaz Ayaklı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 450000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QCFWE2pj4qfjBXVC2EEQUObAd5UqG-YS1JY8zuQiHCBS7zUxL0_G7I1okx-yS7cmmcJXlviQKMWQ2Hap5RZ6rbUdmOAnwhlP4FekCZaLx9RohqVoOnfBUxCs8sYYLTuTeUgHlLSV3xDDwa=s1600",
-      "originalPrice": 562500
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QCFWE2pj4qfjBXVC2EEQUObAd5UqG-YS1JY8zuQiHCBS7zUxL0_G7I1okx-yS7cmmcJXlviQKMWQ2Hap5RZ6rbUdmOAnwhlP4FekCZaLx9RohqVoOnfBUxCs8sYYLTuTeUgHlLSV3xDDwa=s1600"
     },
     {
       "id": "YD-53",
@@ -570,9 +560,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-023.webp",
       "alt": "Sarı Kırmızı Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 450000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qa47S8Tl5pOgfmKiJ9rvj1b8-jM5kjOo3INvoiw1R14hWSPF8spOu0WPkQc-u5FsNhfus8pzMg6DpdPv67Ip1LmS0bmWd5CaoIF4wlC4aChotO5cCs5E7M4zN4uwlE_CSF4b2R=s1600",
-      "originalPrice": 562500
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qa47S8Tl5pOgfmKiJ9rvj1b8-jM5kjOo3INvoiw1R14hWSPF8spOu0WPkQc-u5FsNhfus8pzMg6DpdPv67Ip1LmS0bmWd5CaoIF4wlC4aChotO5cCs5E7M4zN4uwlE_CSF4b2R=s1600"
     },
     {
       "id": "YD-59",
@@ -614,9 +602,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-029.webp",
       "alt": "Üç Katlı Kırmızı Beyaz Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 650000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S2zw9e_oWCbh-IytoQ1t3RQveIzzE0lIZG-f8Jyy2dPUg9eh1ECHRT5y8tgKiMe8U0mBXApkqL5WkyUrLWQsbOwrOsZrAsCDkbiVUEzUe5BCo0l7TTcXAx-eNQqsH9ZLB9ISP6pVrQXfjP=s1600",
-      "originalPrice": 812500
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S2zw9e_oWCbh-IytoQ1t3RQveIzzE0lIZG-f8Jyy2dPUg9eh1ECHRT5y8tgKiMe8U0mBXApkqL5WkyUrLWQsbOwrOsZrAsCDkbiVUEzUe5BCo0l7TTcXAx-eNQqsH9ZLB9ISP6pVrQXfjP=s1600"
     },
     {
       "id": "YD-63",
@@ -658,9 +644,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-034.webp",
       "alt": "İki Katlı Kırmızı Beyaz Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SoLT5KGJr9MyKctejM7wUsk3OroyCVSnHsx8JgMiITBpwpuvkjFsflxxa2jlQT-gnBDZUFSJEbZSv4eX_gzJaiccwoSrXQfYngXyfOz76TQH3yriM9Guxc2qVaNI5dBV_OBoyU=s1600",
-      "originalPrice": 625000
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SoLT5KGJr9MyKctejM7wUsk3OroyCVSnHsx8JgMiITBpwpuvkjFsflxxa2jlQT-gnBDZUFSJEbZSv4eX_gzJaiccwoSrXQfYngXyfOz76TQH3yriM9Guxc2qVaNI5dBV_OBoyU=s1600"
     },
     {
       "id": "YD-67",
@@ -713,9 +697,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-040.webp",
       "alt": "Sarı Beyaz Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 450000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R7a_EMAzHcjSqju86jcEqDFStizWPJux1AJfDXqTiiAJn6an167qiLhbj52jiK_ApN6v84X2EXaHGXB1xKBiTz8bjglYdIPJ5iY9bqXJj55s231q4UZCdvUUQkoUMWVO6ePxI8=s1600",
-      "originalPrice": 562500
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9R7a_EMAzHcjSqju86jcEqDFStizWPJux1AJfDXqTiiAJn6an167qiLhbj52jiK_ApN6v84X2EXaHGXB1xKBiTz8bjglYdIPJ5iY9bqXJj55s231q4UZCdvUUQkoUMWVO6ePxI8=s1600"
     },
     {
       "id": "YD-72",
@@ -735,9 +717,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-043.webp",
       "alt": "Sarı Kırmızı Ayaklı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 450000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S0V_OA5awzfkOj99aSrDIyawYNCg6Pvy-SR3dCxpg5twt3OcwRPJrFJyi28XZDuYCgL1YmhVLqDPBMIftk7DA6K-Zpi5sl2rt8uSB-xIxoJcgRsnsZ0CH4R-XUGjtjup5SD7cD=s1600",
-      "originalPrice": 562500
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S0V_OA5awzfkOj99aSrDIyawYNCg6Pvy-SR3dCxpg5twt3OcwRPJrFJyi28XZDuYCgL1YmhVLqDPBMIftk7DA6K-Zpi5sl2rt8uSB-xIxoJcgRsnsZ0CH4R-XUGjtjup5SD7cD=s1600"
     },
     {
       "id": "YD-74",
@@ -779,9 +759,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-049.webp",
       "alt": "Üç Katlı Kırmızı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QBldyfU1KMOlayPsAytIlaSSSGbQsZ7h1v0cThDgTHhXuXsGAOrjWGj5qbr0b_M1IKmDzLx9X1Xkh182qI6xAhB-eoYSY7FxcSS36tLH2kjxh_S0Z8sTUnUu3sILxamUDeVsRv_6DOFAfz=s1600",
-      "originalPrice": 625000
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QBldyfU1KMOlayPsAytIlaSSSGbQsZ7h1v0cThDgTHhXuXsGAOrjWGj5qbr0b_M1IKmDzLx9X1Xkh182qI6xAhB-eoYSY7FxcSS36tLH2kjxh_S0Z8sTUnUu3sILxamUDeVsRv_6DOFAfz=s1600"
     },
     {
       "id": "YD-78",
@@ -801,9 +779,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-053.webp",
       "alt": "Sarı Beyaz Tek Katlı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RnseY9miuNudC2JkebHCgdkg03Dfhf5lpuqGDuIVJ9PWKR6BgI3vpLD_QTWqk7W73N9u4IL2uN1wfOUS2mydt44WWHVgYBAi1xX-Ec35MUzjxLhl0mBVXBtFB7UzyqWs3ZQ5DDGA=s1600",
-      "originalPrice": 625000
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RnseY9miuNudC2JkebHCgdkg03Dfhf5lpuqGDuIVJ9PWKR6BgI3vpLD_QTWqk7W73N9u4IL2uN1wfOUS2mydt44WWHVgYBAi1xX-Ec35MUzjxLhl0mBVXBtFB7UzyqWs3ZQ5DDGA=s1600"
     },
     {
       "id": "YD-80",
@@ -845,9 +821,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-059.webp",
       "alt": "Beyaz Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "funeral",
-      "price": 450000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SgY1rd9W5hJWJfITrw7YUvSI-euQzUhfeAIKwsK396r4ytYjqA-79rAYyNioGCwgp0JzhZpt90J0UxjntpsS_FUAC4mfCQxqIqQU_9FXfFNNN2IlvXJ7cVVc4aaYHzq9PPVdZS=s1600",
-      "originalPrice": 562500
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SgY1rd9W5hJWJfITrw7YUvSI-euQzUhfeAIKwsK396r4ytYjqA-79rAYyNioGCwgp0JzhZpt90J0UxjntpsS_FUAC4mfCQxqIqQU_9FXfFNNN2IlvXJ7cVVc4aaYHzq9PPVdZS=s1600"
     },
     {
       "id": "YD-85",
@@ -856,9 +830,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-061.webp",
       "alt": "Kırmızı Dikdörtgen Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 450000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qh0o9rDYgZc1L4jj0ryd0EpGw2pVBJL2PLLtJqEVOYTZqUYRiq2FTSv5LTtRQcBH0b43W3iph2SRyKh6Y0m3N-h3juAhoTj60QUZNm28Q9RYfij5LGRs2L7r0ykpixLYwMkcMK5pRpgCBf=s1600",
-      "originalPrice": 562500
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qh0o9rDYgZc1L4jj0ryd0EpGw2pVBJL2PLLtJqEVOYTZqUYRiq2FTSv5LTtRQcBH0b43W3iph2SRyKh6Y0m3N-h3juAhoTj60QUZNm28Q9RYfij5LGRs2L7r0ykpixLYwMkcMK5pRpgCBf=s1600"
     },
     {
       "id": "YD-86",
@@ -878,9 +850,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-063.webp",
       "alt": "Turuncu Sarı Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 450000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TpemcH_hAlcbsVgXBRzOJ4nXXsoZQGT3LSo7EBG2TMT7oDWP2G2SMdEvM1ToS7rWmyj6EFjihRYf-ESbrvGC8W2alNkPDuswkZpBYpiYhAQO8dZUbfxtKzTGEEugg_B51Y4BTP=s1600",
-      "originalPrice": 562500
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TpemcH_hAlcbsVgXBRzOJ4nXXsoZQGT3LSo7EBG2TMT7oDWP2G2SMdEvM1ToS7rWmyj6EFjihRYf-ESbrvGC8W2alNkPDuswkZpBYpiYhAQO8dZUbfxtKzTGEEugg_B51Y4BTP=s1600"
     },
     {
       "id": "YD-88",
@@ -911,9 +881,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-069.webp",
       "alt": "Pembe Güllü Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QIF3m9A-dxkTHq1U41DaA2QbiiTP2hnguulJcp7Fw3byD7TWYBikxVid7IWdZ2HPJU8pFYijrsg2bdH87Xd6thQKdG3sXuNU3B4qi1c1nANirMAaZ7P-t7XS65xypJ2-U_WgtpIg=s1600",
-      "originalPrice": 625000
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9QIF3m9A-dxkTHq1U41DaA2QbiiTP2hnguulJcp7Fw3byD7TWYBikxVid7IWdZ2HPJU8pFYijrsg2bdH87Xd6thQKdG3sXuNU3B4qi1c1nANirMAaZ7P-t7XS65xypJ2-U_WgtpIg=s1600"
     },
     {
       "id": "YD-93",
@@ -922,9 +890,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-074.webp",
       "alt": "Krem Pembe Ayaklı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RF_EI88WeFWcuF2-OP-D8hae3pKsRtl3RZkp-VtG5cdUm_zLAvEHa4uh9OonBnDlBvkwVWrgl_xq5ehsdqoYlsBorluz_b3Np87DUT6k3M9NYxhDYOEjw3Fs5Ky6VfIDYESceU=s1600",
-      "originalPrice": 625000
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RF_EI88WeFWcuF2-OP-D8hae3pKsRtl3RZkp-VtG5cdUm_zLAvEHa4uh9OonBnDlBvkwVWrgl_xq5ehsdqoYlsBorluz_b3Np87DUT6k3M9NYxhDYOEjw3Fs5Ky6VfIDYESceU=s1600"
     },
     {
       "id": "YD-95",
@@ -977,9 +943,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-083.webp",
       "alt": "Turuncu Sarı Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TWWN4AqximCUkk_f0-wPlEKIZKjzVQ1_dHFATkoi6QxjzClhF1xCUQ9wgKsJ-tsGa1ahprRpKwzlK9qZ_Sw_fIq-ePJVmLVe1J1Srer9WjIBY80dzSQRSvqkR_NdGjVuBwj558=s1600",
-      "originalPrice": 625000
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TWWN4AqximCUkk_f0-wPlEKIZKjzVQ1_dHFATkoi6QxjzClhF1xCUQ9wgKsJ-tsGa1ahprRpKwzlK9qZ_Sw_fIq-ePJVmLVe1J1Srer9WjIBY80dzSQRSvqkR_NdGjVuBwj558=s1600"
     },
     {
       "id": "YD-101",
@@ -999,9 +963,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-088.webp",
       "alt": "Kırmızı Beyaz Anma Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "funeral",
-      "price": 500000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SeQH-R9xnFzTqmNG3B4lrQw0uzHVdjUvu7C6Var7TXUHXu08Ou3LV3ORnTO1N6uXdw8Nb7lTR1NgNIdNJvyvy88JKQsyflbhONnduvyyOtku0sbPIxQZrKV5cWgQbzy8QJIo9Mm8nR1Dru=s1600",
-      "originalPrice": 625000
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SeQH-R9xnFzTqmNG3B4lrQw0uzHVdjUvu7C6Var7TXUHXu08Ou3LV3ORnTO1N6uXdw8Nb7lTR1NgNIdNJvyvy88JKQsyflbhONnduvyyOtku0sbPIxQZrKV5cWgQbzy8QJIo9Mm8nR1Dru=s1600"
     },
     {
       "id": "YD-103",
@@ -1021,9 +983,7 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-092.webp",
       "alt": "Turuncu Beyaz Ayaklı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 300000,
-      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TzbE5vY4ZXEKmsSgKGxMVf2VN6T7dYHNISERQTcIw602GnpVKSmKoB-zIQmDQYHMKy6G1c-S95Ngz90V8Oui-oAUnQJJoHomSRIMLrpt_TEHu4DC_fzPyrGOUOU4Fq3Ai8f0bZ=s1600",
-      "originalPrice": 375000
+      "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TzbE5vY4ZXEKmsSgKGxMVf2VN6T7dYHNISERQTcIw602GnpVKSmKoB-zIQmDQYHMKy6G1c-S95Ngz90V8Oui-oAUnQJJoHomSRIMLrpt_TEHu4DC_fzPyrGOUOU4Fq3Ai8f0bZ=s1600"
     },
     {
       "id": "YD-105",
@@ -1109,8 +1069,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-100.webp",
       "alt": "Sarı Pembe Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S1IkZcWNwq9vA1f5P2g55o-lLkhrpSr9II9PXXlnT6Jvu15DFQZ2RmTya1JgXf1SNBD32U_EJrhozsvcna_29vPBz1P7jhnqYaKU8uP-4ZsCtgMU7JHqNmNKF0IUxKqK18gjO-=s1600"
     },
     {
@@ -1120,8 +1078,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-101.webp",
       "alt": "Turuncu Pembe Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RPvAU_iiEMnTEm94hw-n98g8s1DR0DjokebIUNwf_Pw-bWURcuyQMP12zqAVZU8Etaqs0WyED-A8JPisjAWAZGvyQy9Hy0R7oSGcxvPKDX5gj_uDzIRkyea8lFDSjRC7-0YSPc=s1600"
     },
     {
@@ -1131,8 +1087,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-103.webp",
       "alt": "Beyaz Sarı Pembe Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TJtdTy-dl7FKTQfea6yj9fkduu81kJ37nYwImSoeqkotBoMfa-k-c3xfnj6Q0SrpJXRbe4X58Fb7U6GXm_hSOeZ87PPknq3mE_jlq6Jxud07IcEkPfERJE5lRNR2ht35ucXbYs=s1600"
     },
     {
@@ -1153,8 +1107,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-107.webp",
       "alt": "Kırmızı Beyaz Tek Katlı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9S_8kwgEhuajMJRalw8FbPjuqVkN-VBfRZXreXA2LdBqa26anJ1HPzSRAxOxBCHDS0dDzhkbOUqHEBbzxVAU45vmAdqXtjXVy6Yd3UXfMW1XC-CEadaCBS_Zxjo3SaYOOXhMFs=s1600"
     },
     {
@@ -1186,8 +1138,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-112.webp",
       "alt": "Kırmızı Beyaz Anma Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "funeral",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SfvOaCj2H-VsIQ3zuV0wOLxLZ3y3YxWvtnejnAqd4zvIHqd2AonbrLqsOvXXZh-3IIRsWQI5bC0ECmWhuttXH5eLi9FOcMpRrSet0xewTWzHpDg_cr8NHJXd885TX4Yksv4pMGtw=s1600"
     },
     {
@@ -1204,8 +1154,8 @@ window.FLOWER_CONTENT = {
     {
       "id": "YD-121",
       "name": "Siyah Ambalajlı Kırmızı Gül ve Cipso",
-      "image": "assets/bouquets/yade-safari-115.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-115.webp",
+      "image": "assets/bouquets/yade-safari-115.studio.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-115.studio.webp",
       "alt": "Siyah Ambalajlı Kırmızı Gül ve Cipso — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
       "price": 350000,
@@ -1219,8 +1169,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-116.webp",
       "alt": "Sarı Kırmızı Tek Katlı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SXcCfdJv1y2Pphxp1LmtABAFzq8dXo6F_37DjUACmN0wf_1MQEzYffKr_uPghr8uZgI-I9w30T2Koy_NagvVJJ2F9_NDKkuIMwKapfCT51eEDpteGvjhKMdTAXIITcBN1YIk32Eg=s1600"
     },
     {
@@ -1230,8 +1178,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-119.webp",
       "alt": "Beyaz Yeşil Tören Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TQsorAK2nBn3hddanCUfqG8um0iTTf4MFkrC1hpPi3LLhm7zpsus32eW7O9odY9ajlBchVVImmXFO7u2CjAlIvfB8VA1NtxzC2FFha7u-jcUgg7y0aJm4KIfBko55iTmFMN-U0=s1600"
     },
     {
@@ -1241,8 +1187,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-121.webp",
       "alt": "Turuncu Sarı Açılış Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SBjBqBEMg5qKSYUU75uE8Mv68ZPwbPcbx1HiLNRtIMkmAHXdUyiVdCJ0JURrG9MASjpBetAK5taaB73tR4bxN83LysBpWpJua4zGX_Vtmc_IPRdXtwUgQNx7QOew9KEaC4UezA=s1600"
     },
     {
@@ -1285,8 +1229,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-128.webp",
       "alt": "Beyaz Yeşil Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SiPLGt3LY_HCpEJBnxqNk-_Zzaa1E2XvG8QjOtvHkGCYYP3Ry3YXJwtDQDv88SNS0SokGmr_23LUzzs2_xluksUNhqdBc1G5Vzc8Sodmji4uYlhJAbm5UEzH6EVsPjaSkf2TUM=s1600"
     },
     {
@@ -1303,8 +1245,8 @@ window.FLOWER_CONTENT = {
     {
       "id": "YD-130",
       "name": "Krem Tüllü Kırmızı Beyaz Buket",
-      "image": "assets/bouquets/yade-safari-131.thumb.webp",
-      "fullImage": "assets/bouquets/yade-safari-131.webp",
+      "image": "assets/bouquets/yade-safari-131.studio.thumb.webp",
+      "fullImage": "assets/bouquets/yade-safari-131.studio.webp",
       "alt": "Krem Tüllü Kırmızı Beyaz Buket — Yade Flowers gerçek ürün fotoğrafı",
       "category": "flowers",
       "price": 350000,
@@ -1318,8 +1260,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-133.webp",
       "alt": "İki Katlı Kırmızı Gül Aranjmanı — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9RwvmWkCcJ3tygBWmWm32oBnkeAAHuRGfToDFQRa642XwyppER9bmVByiVFgPmsR1v_J6SRUZRrxIrog020rOB-PvjNc8VW5aCBKsM9MaKGatl2G4ELtwe4KxEmmCbi8hmCgToE=s1600"
     },
     {
@@ -1340,8 +1280,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-137.webp",
       "alt": "Sarı Beyaz Mavi Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SJUZgZyY787UDs3i-iPnrumiuCpJN-LamnEUh6SOwFU4jXEEQKm5IBxyNtn_zKLNnW4IGOufgY7MRJ4CVEBveevCBfWelj3iklzh1-TtbVUrPDT_O8IhFFU_w0wlGIntIRhowMZw=s1600"
     },
     {
@@ -1362,8 +1300,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-141.webp",
       "alt": "Sarı Turuncu Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9Qt6smOfOrTSyc0UOhGCpVCNqFYej-_lNgS-MFBDKV57-zyPyR4_HJelT9ziWy58J4dWNbO3zRpj0WXhHAvatRvu2Qi52BT0fRN7q5psBgEb-dtZNot5pEO1LUEpUTOBzcL5t15NA=s1600"
     },
     {
@@ -1384,8 +1320,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-146.webp",
       "alt": "Pembe Beyaz Tek Katlı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TFJ_yICm-ISY84e2YWHfpFKseZyXxt4MxV1GEFVPINb5pvW8bbp-QMRTtx4WoaVpjAkfx4nGDjPB8IK7bARhgAq5I-l670jSq5zdGnSDrBupI0cjGotymP15q0wDU6ZRC2JB55=s1600"
     },
     {
@@ -1395,8 +1329,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-147.webp",
       "alt": "Kırmızı Beyaz Tören Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TaVJpkeHpozYYaMUHRH2IBfrVOKpOGtDf754ZcuS0rDXXEuMJBgK6KWvMSFiJXkrWpImUzw_ilJmD6BRl9B6zIjmxcbiDEiH3HKPhx9GgmR3N1JfKarq4oJvcBNziWaX371O8=s1600"
     },
     {
@@ -1494,8 +1426,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-162.webp",
       "alt": "Sarı Turuncu Beyaz Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9TBzo-5ER8a9v7tXFLHNnD0SDmLyXa5YveGgqtjlpqgQrpbQTlzp8rpILRH8FMhDjE0h_0eAcpx6lshhw4ANoPDivtI8kPCj2ZFOCjKMTB3G7j5M4woORinjXfud1WkSy317tqq=s1600"
     },
     {
@@ -1516,8 +1446,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-168.webp",
       "alt": "Pastel Renkli İki Katlı Çelenk — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9T409vtpiL_hch15KaKHlrXFGUE6bsv8vfli_EuUXFmMSjk8HgJo9_7PxX4SeVxCkdEbpBXtbt7BvpNf0W1oBBkIIQDvM5kvTJm6FW_yQH14VjAhUE9QEg9ygqOkKqtFoOFYDs=s1600"
     },
     {
@@ -1637,8 +1565,6 @@ window.FLOWER_CONTENT = {
       "fullImage": "assets/bouquets/yade-safari-182.webp",
       "alt": "Turuncu Beyaz Açılış Çelengi — Yade Flowers gerçek ürün fotoğrafı",
       "category": "wreath",
-      "price": 500000,
-      "originalPrice": 650000,
       "source": "https://lh3.googleusercontent.com/gps-cs-s/ANWiy9SDia6wxIc11XGhTz2a6R1ovZid0dZngkEFhcr9IXkGsD1s4SXet06Uvv6csP1x8r7wIpEpX-pJQ_pdOqfb2ozQLDd9xxXSjsB3_RTe9jvwn6SR7mFjqKsA7WtQRQCjw5ge_pl1=s1600"
     },
     {
